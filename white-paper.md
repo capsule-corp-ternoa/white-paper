@@ -2,7 +2,7 @@
 
 ## Avant propos
 
-« Le moment présent est vite passé, c’est le souvenir qui dure » Eugène Marbeau, Les remarques et pensées.
+*« Le moment présent est vite passé, c’est le souvenir qui dure »* Eugène Marbeau, Les remarques et pensées.
 
 Qui n’a jamais ressenti une grande joie en relisant au hasard quelques lignes de son journal intime du collège ? Qui ne s’est pas ému en re-regardant la vidéo de son mariage ? Quel historien ne s’est pas émerveillé retrouvant l’archive datant du 17ème lui permettant de mieux comprendre le règne de Louis XIV ?
 
