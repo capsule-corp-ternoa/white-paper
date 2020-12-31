@@ -259,7 +259,7 @@ Prix à l’ICO: 0,006 € / CACO
 ### Règles de libération des Tokens
 
 |                       |                                                                                               |
-| :-------------------- | --------------------------------------------------------------------------------------------: |
+| :-------------------- | :-------------------------------------------------------------------------------------------: |
 | Airdrop               |     11 mois de vesting, puis 40%, 30%, 30% après 11, 15, 20 mois de lock-ups                  |
 | Partenaires           |     11 mois de vesting, puis 40%, 30%, 30% après 11, 15, 20 mois de lock-ups                  |
 | Advisors              |     8 mois de vesting, puis 40%, 30%, 30% après 8, 12, 17 mois de lock-ups                    |
@@ -291,15 +291,15 @@ Professionnelle du marketing opérationnel et des ventes, Sachie a créé « fro
 
 ### Team opérationnelle
 
-Johann Canu – Lead Developer
-Arno Trigallez – Developer Blockchain
-Yannick Bensaq – Developer Back End
-Anthony Hervy – Developer Back End
-Lorraine Damiens - Project Manager
-Clément Levet - Product Designer
-Aurélien Deville - Partenariats
-Valentin Peersman - Growth
-Martin Oliviero - Operations
-Audrey Duchene - Communication
-Nicolas Duchemin - Digital Marketing
-Laetitia Berretrot - Sales B2C 
+* Johann Canu – Lead Developer
+* Arno Trigallez – Developer Blockchain
+* Yannick Bensaq – Developer Back End
+* Anthony Hervy – Developer Back End
+* Lorraine Damiens - Project Manager
+* Clément Levet - Product Designer
+* Aurélien Deville - Partenariats
+* Valentin Peersman - Growth
+* Martin Oliviero - Operations
+* Audrey Duchene - Communication
+* Nicolas Duchemin - Digital Marketing
+* Laetitia Berretrot - Sales B2C 
