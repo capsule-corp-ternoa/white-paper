@@ -35,35 +35,40 @@ Capsule Corp. développera à partir du SDK sa propre application, appelée «�
 
 L’Application Ternoa permet de créer des “Capsules Temporelles” pour chiffrer, stocker, et transférer des données de manière sécurisée, et dans le temps long. Ces Capsules Temporelles sont des jetons non-fongibles émis sur la blockchain Ternoa.
 
-*Fig. 1: Schéma fonctionnel d’utilisation de la Blockchain TERNOA par l’Application Ternoa*
+*Fig. 1: Schéma fonctionnel d’utilisation de la Blockchain TERNOA par l’Application Ternoa.*
 
 ![Blockchain TERNOA 01](images/blockchain-useless.jpg "texte pour le titre, facultatif")
 
-Les flux en vert correspondent aux étapes du parcours d’un utilisateur sur  l’Application Ternoa pour  créer une capsule temporelle et transmettre des données numériques à des bénéficiaires déterminés. A terme, quatre protocoles permettront de déclencher la transmission de l’information :  
-Le Death Protocol pour une transmission post mortem ; 
-Le Consent Protocol pour une transmission basée sur le principe d’activation d’ouverture par des tiers et de non-opposition par l’émetteur ; 
-Le Safe Protocol pour stocker de l’information consultable sur le modèle d’un coffre-fort numérique ; et
-Le D-Day Protocol pour stocker et d’envoyer de la donnée à une date déterminée.
+Les flux en vert correspondent aux étapes du parcours d’un utilisateur sur  l’Application Ternoa pour  créer une capsule temporelle et transmettre des données numériques à des bénéficiaires déterminés. A terme, quatre protocoles permettront de déclencher la transmission de l’information :
+
+* Le Death Protocol pour une transmission post mortem ;
+* Le Consent Protocol pour une transmission basée sur le principe d’activation d’ouverture par des tiers et de non-opposition par l’émetteur ;
+* Le Safe Protocol pour stocker de l’information consultable sur le modèle d’un coffre-fort numérique ; et
+* Le D-Day Protocol pour stocker et d’envoyer de la donnée à une date déterminée.
 
 Les flux en bleu correspondent aux étapes “off-chain” complétées lors de la création et de l’envoi de capsules temporelles.
 
 Les flux en violet, correspondent aux étapes du parcours fonctionnant sur la Blockchain Ternoa:
-Chiffrage des données,
-Stockage sur serveurs décentralisés de blockchains spécialisées (Storj, Sia, Arweave)
-Transmission et déchiffrage asymétrique grâce à l’utilisation de Smart Contract
+
+* Chiffrage des données,
+* Stockage sur serveurs décentralisés de blockchains spécialisées (Storj, Sia, Arweave)
+* Transmission et déchiffrage asymétrique grâce à l’utilisation de Smart Contract
 
 ## Écosystème de développement
 
 La Blockchain Ternoa s’appuie sur le framework Substrate et la Blockchain Polkadot développés par Parity Technologies.
+
 Substrate est un environnement de développement créé pour faciliter la création de Blockchains grâce à une architecture modulaire qui permet de réduire considérablement le coût et le temps de développement d’une Blockchain. Substrate est un projet porté par Jutta Steiner, ex Chief-Of-Security de la fondation Ethereum, et une équipe de plus de 60 développeurs à travers le monde.
 Polkadot est une Blockchain pensée et développée pour faciliter l’interopérabilité entre différentes Blockchains tout en garantissant un haut de niveau de scalabilité des transactions. Polkadot a été créé par Gavin Wood, co-fondateur d’Ethereum.
+
 L’écosystème formé par le framework Substrate et la Blockchain Polkadot s’est fait remarquer en 2020 comme étant le premier projet non basé sur la Blockchain Ethereum à intégrer Chainlink, solution leader de réseaux d’oracles décentralisés. Et permettant à ce dernier de devenir « le principal fournisseur d’oracles pour toutes les blockchains basées sur Substrate et, à terme, pour l’ensemble du réseau Polkadot »
 
-La Blockchain Ternoa repose sur le framework substrate pour offrir:
-L’utilisation de la preuve d’enjeu déléguée (Nominated-Proof-of-Stake abrégé en NPOS) pour la validation des transactions et ainsi sécuriser la donnée.
-La possibilité de se connecter à d’autres Blockchains pour pouvoir stocker la donnée sur des infrastructures spécialisées.
-La création de Smart Contracts afin de créer les différents protocoles permettant de transmettre la donnée.
-La gestion des Non Fongible Token (NFT) qui joue le rôle de capsule temporelle et permette la gestion des capsules temporelles ;
+La Blockchain Ternoa repose sur le framework substrate pour offrir :
+
+* L’utilisation de la preuve d’enjeu déléguée (Nominated-Proof-of-Stake abrégé en NPOS) pour la validation des transactions et ainsi sécuriser la donnée.
+* La possibilité de se connecter à d’autres Blockchains pour pouvoir stocker la donnée sur des infrastructures spécialisées.
+* La création de Smart Contracts afin de créer les différents protocoles permettant de transmettre la donnée.
+* La gestion des Non Fongible Token (NFT) qui joue le rôle de capsule temporelle et permette la gestion des capsules temporelles ;
 
 ## Nominated proof of stake
 
@@ -105,7 +110,8 @@ L’utilisateur peut stocker de la donnée sur la Blockchain Ternoa pour une dur
 ### D-DAY Protocol
 
 L'utilisateur choisit un jour/mois/année ou la capsule sera envoyée.
-ex : Alice souhaite préparer une capsule pour Bob qui doit partir à l'étranger le 17 janvier 2021. Elle prépare une capsule pour elle et pour lui avec à l'intérieur tous les éléments nécessaires : billets, réservation d'hôtels, etc.
+
+*ex : Alice souhaite préparer une capsule pour Bob qui doit partir à l'étranger le 17 janvier 2021. Elle prépare une capsule pour elle et pour lui avec à l'intérieur tous les éléments nécessaires : billets, réservation d'hôtels, etc.*
 
 *ex : Bob prépare une capsule pour l'anniversaire des 40 ans d'Alice. Il y ajoute des messages et photos qui automatiquement seront transmis à Alice le jour J.*
 
@@ -121,7 +127,7 @@ L'utilisateur définit un nombre de jours avant l'envoi de la capsule. Il a la p
 
 L'utilisateur autorise un groupe à déclencher l'envoi d'une capsule. L'utilisateur a un délai pour s'y opposer.
 
-ex : Alice gère le Wallet d'une grosse PME. Elle fait un AVC et se retrouve à l'hôpital. Le groupe de Bob, Christelle et Diane sont désignés comme autorisés à envoyer la capsule. Ils déclenchent l'action et Alice ne s'y opposant pas, l'ayant droit récupère les clés du wallet.
+*ex : Alice gère le Wallet d'une grosse PME. Elle fait un AVC et se retrouve à l'hôpital. Le groupe de Bob, Christelle et Diane sont désignés comme autorisés à envoyer la capsule. Ils déclenchent l'action et Alice ne s'y opposant pas, l'ayant droit récupère les clés du wallet.*
 
 ### Death Protocol
 
@@ -135,11 +141,11 @@ Sur la première version, le langage RUST (via INK!) sera utilisé pour gérer l
 
 ## 7. Workflow des Capsules Temporelles
 
-La Blockchain Ternoa utilise des NFT comme “capsules temporelles”. Préalablement à l’envoi d’une capsule temporelle, l’utilisateur doit se provisionner son wallet de Capsule Coin et doit acheter un NFT compatible Ternoa. 
+La Blockchain Ternoa utilise des NFT comme “capsules temporelles”. Préalablement à l’envoi d’une capsule temporelle, l’utilisateur doit se provisionner son wallet de Capsule Coin et doit acheter un NFT compatible Ternoa.
 
-*Fig. 2. Schéma fonctionnel de la transmission des NFT sur la Blockchain Ternoa*
+*Fig. 2. Schéma fonctionnel de la transmission des NFT sur la Blockchain Ternoa.*
 
-![Blockchain TERNOA 03](images/blockchain-useless-03.jpg "texte pour le titre, facultatif")
+![Blockchain TERNOA 03](images/nft-transmission.jpg "texte pour le titre, facultatif")
 
 De point de vue de la Blockchain Ternoa, une création de capsule consiste à :
 
@@ -157,21 +163,29 @@ Le module Non-fungible-token fournit des fonctions de base pour créer et gérer
 
 Les NFT les plus répandus sont les ERC721. On peut ajouter à l'intérieur les métas que nous souhaitons et dans notre cas, voici leurs compositions :
 
+    "id" : "",
+    "name" : "",
+    "image" : "",
+    "uri" : [],
+    "pk_hash" : "",
+    "owner" : "",
+    "creator" : ""
+
 Les NFT basiques seront designées par TERNOA et une place de marché des NFT sera déployée en 2021.. Cette place de marché s'appuie sur le projet SubstraPunk et permet à n’'importe quel créateur d’avoir la possibilité de proposer et des vendre des NFT compatibles avec TERNOA.
 
 ## Décentralisation des données
 
 La Blockchain Ternoa est pensée pour être une Parachain du réseau Ternoa. Ainsi, elle aura son propre réseau de serveurs et utilisera en même temps le réseau Ternoa pour décentraliser les données.
 
-*Fig. 3 - système de relais parachains polkadot*
+*Fig. 3 - système de relais parachains polkadot.*
 
-![Blockchain TERNOA 04](images/blockchain-useless-04.jpg "texte pour le titre, facultatif")
+![Blockchain TERNOA 04](images/parachains-polkadot.jpg "texte pour le titre, facultatif")
 
 Les données sont chiffrées puis envoyées sur différents serveurs décentralisés. Nous utiliserons pour chaque message un arbre de merkle composé de l'ensemble des fichiers à récupérer pour recomposer le message. Il en sera de même pour la capsule, elle sera composée des fichiers qui composent les messages.
 
-*Fig.3  - Stockage décentralisé*
+*Fig.4 - Stockage décentralisé.*
 
-![Blockchain TERNOA 01](images/blockchain-useless-05.jpg "texte pour le titre, facultatif")
+![Blockchain TERNOA 01](images/decentralized-server.jpg "texte pour le titre, facultatif")
 
 ## Chiffrage asymétrique et sécurité
 
@@ -191,15 +205,15 @@ Le shard primaire est transféré “Off-Chain” via différents vecteurs : dep
 
 Chaque capsule à un shard unique qui permet au possesseur du NFT de la déchiffrer. Ce shard peut-être chiffré et sauvegardé sur différents services de cloud : mobile Cloud, dropbox, etc ... Et il peut être exporté dans format TXT. Dans le cas d'un changement de téléphone ou de la perte de celui-ci, l'utilisateur une fois connecté à son wallet sera capable de réimporter et de déchiffrer le shard.
 
-*Fig. 4 - Stockage off-chain P2P des clés*
+*Fig. 5 - Stockage off-chain P2P des clés.*
 
-![Blockchain TERNOA 01](images/blockchain-useless-06.jpg "texte pour le titre, facultatif")
+![Blockchain TERNOA 01](images/off-chain-01.jpg "texte pour le titre, facultatif")
 
 Le module social permettra de voir sa clé stockée de façon off-chain sur le réseau mobile en P2P. Pour bénéficier gratuitement de cette option, il faut accepter de détenir aussi des clés chiffrées d'autres utilisateurs.
 
-*Fig. 5 - Stockage  off-chain P2P des clés*
+*Fig. 6 - Stockage  off-chain P2P des clés.*
 
-![Blockchain TERNOA 01](images/blockchain-useless-07.jpg "texte pour le titre, facultatif")
+![Blockchain TERNOA 01](images/off-chain-02.jpg "texte pour le titre, facultatif")
 
 Les autres shards seront stockées sur les Masternodes. Si le propriétaire du NFT demande à avoir accès au shards, le réseau lui donne si les autres conditions sont valables. Ces conditions sont gérées par les protocoles énoncés ci-dessous.
 
@@ -217,10 +231,11 @@ Le module Democracy gère l’administration du vote général des parties prena
 
 Ternoa propose aux détenteurs de Capsule Coins d’être acteurs du réseau et d’avoir un pouvoir décisionnel quant à la gouvernance de la blockchain : évolutions, partenaires, protocoles, etc.
 
-Il existe deux files d’attente différentes auxquelles une proposition peut être ajoutée avant qu’elle ne devienne un référendum:
-la file d’attente des propositions comprenant toutes les propositions publiques, et
-la file d’attente externe comprenant une seule proposition qui provient d’une des origines externes (comme un groupe collectif).
-À chaque période de lancement, un référendum est créé à partir d’une proposition prise à tour de rôle dans la file d’attente des propositions ou dans la file d’attente externe. Tout détenteur de Capsule Coins dans le système peut voter sur les référendums. Le système de vote utilise un vote à temps fixe en permettant au détenteur du jeton de fixer sa conviction derrière un vote. La conviction dicte la durée de verrouillage des jetons, ainsi que le multiplicateur qui échelonne la puissance du vote.
+Il existe deux files d’attente différentes auxquelles une proposition peut être ajoutée avant qu’elle ne devienne un référendum :
+
+* la file d’attente des propositions comprenant toutes les propositions publiques, et
+* la file d’attente externe comprenant une seule proposition qui provient d’une des origines externes (comme un groupe collectif).
+* À chaque période de lancement, un référendum est créé à partir d’une proposition prise à tour de rôle dans la file d’attente des propositions ou dans la file d’attente externe. Tout détenteur de Capsule Coins dans le système peut voter sur les référendums. Le système de vote utilise un vote à temps fixe en permettant au détenteur du jeton de fixer sa conviction derrière un vote. La conviction dicte la durée de verrouillage des jetons, ainsi que le multiplicateur qui échelonne la puissance du vote.
 
 ## Modèle Économique
 
@@ -239,7 +254,7 @@ Prix à l’ICO: 0,006 € / CACO
 
 ### Répartition des Tokens
 
-![Blockchain TERNOA 01](images/blockchain-useless-08.jpg "texte pour le titre, facultatif")
+![repartitions](images/repartitions.jpg "texte pour le titre, facultatif")
 
 ### Règles de libération des Tokens
 
