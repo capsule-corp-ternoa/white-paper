@@ -27,7 +27,7 @@ La Blockchain Ternoa qui permet le stockage et la transmission sécurisée des d
 Un kit de développement de logiciel (Software Development Kit, SDK) permettant de faciliter le développement des applications mobiles ou Web rendant ainsi accessibles à tous les cas d’usages de la Blockchain Ternoa.
 
 Ces deux couches technologiques, développées par Capsule Corp., sont compatibles et interagissent avec l’infrastructure Web que nous connaissons aujourd’hui. 
-Cas d’usage : Capsules Temporelles Ternoa
+## Cas d’usage : Capsules Temporelles Ternoa
 Capsule Corp. développera à partir du SDK sa propre application, appelée « Application Ternoa » dans la description de ce cas d’usage.
 
 L’Application Ternoa permet de créer des “Capsules Temporelles” pour chiffrer, stocker, et transférer des données de manière sécurisée, et dans le temps long. Ces Capsules Temporelles sont des jetons non-fongibles émis sur la blockchain Ternoa.
@@ -49,7 +49,7 @@ Chiffrage des données,
 Stockage sur serveurs décentralisés de blockchains spécialisées (Storj, Sia, Arweave)	
 Transmission et déchiffrage asymétrique grâce à l’utilisation de Smart Contract
 
-Écosystème de développement
+## Écosystème de développement
 La Blockchain Ternoa s’appuie sur le framework Substrate et la Blockchain Polkadot développés par Parity Technologies.
 Substrate est un environnement de développement créé pour faciliter la création de Blockchains grâce à une architecture modulaire qui permet de réduire considérablement le coût et le temps de développement d’une Blockchain. Substrate est un projet porté par Jutta Steiner, ex Chief-Of-Security de la fondation Ethereum, et une équipe de plus de 60 développeurs à travers le monde.
 Polkadot est une Blockchain pensée et développée pour faciliter l’interopérabilité entre différentes Blockchains tout en garantissant un haut de niveau de scalabilité des transactions. Polkadot a été créé par Gavin Wood, co-fondateur d’Ethereum.
@@ -61,7 +61,7 @@ La possibilité de se connecter à d’autres Blockchains pour pouvoir stocker l
 La création de Smart Contracts afin de créer les différents protocoles permettant de transmettre la donnée.
 La gestion des Non Fongible Token (NFT) qui joue le rôle de capsule temporelle et permette la gestion des capsules temporelles ;
 
-Nominated proof of stake
+## Nominated proof of stake
 Le fonctionnement d’une Blockchain repose sur la création de blocs de transactions successifs. Lors de la création de ces blocs, les membres actifs de la communauté vérifient la validité des nouvelles transactions soumises, et touchent ainsi une récompense pour avoir rendu service à la communauté. Depuis la création du protocole Bitcoin en 2008, deux méthodes de validation sont à ce jour en concurrence : 
 la preuve de travail (Proof-of-Work abrégé en POW) liée au principe de minage et de mise à disposition d’une puissance de calcul par les noeuds de validation pour résoudre un problème mathématiques, souvent des tables de hachage ; et
 la preuve d’enjeu (Proof-of-Stake abrégé en POS) liée au principe de staking c’est-à-dire que les nœuds doivent prouver qu’ils ont en leur possession une certaine quantité de crypto-monnaies et la mettre en gage sur le réseau.
@@ -77,7 +77,7 @@ Dans ce système de validation des transactions, il existe des Validator et des 
 Les Validator verrouillent (stackent) des CACO et participent à l’élaboration du consensus de validation des transactions. Ils jouent un rôle crucial dans la sécurisation des transactions puisqu’ils sont garants de la validité des informations contenues dans les blocs de transactions et de la production des nouveaux blocs. En contrepartie de ce travail, les Validators reçoivent des CACO par bloc de transaction validée. En revanche, si le réseau s’aperçoit qu’un Validator essaye de valider ou produire des informations erronées, il est sanctionné et se voit retirer tout ou partie des CACO verrouillés. Les Nominators sélectionnent les bons Validators pour leur déléguer la gestion des CACO qu’ils souhaitent verrouiller. 
 
 Ce système crée un cercle vertueux: les Validators sont en compétition pour offrir les meilleures conditions de rendement aux Nominators tandis que ces derniers apportent aux Validators un volume de CACO verrouillés plus important.
-Interopérabilité et stockage des fichiers
+## Interopérabilité et stockage des fichiers
 Le choix de développer la Blockchain Ternoa sur le framework Substrate permet de faciliter son interopérabilité avec d’autres Blockchains existantes. Ainsi, la Blockchain Ternoa redirige les fichiers à stocker vers d’autres Blockchains spécialisées dans le stockage décentralisé comme Storj, Sia ou Aerweave.
 
 Cette solution est la plus avantageuse en termes de sécurité et de résilience du modèle puisque les fichiers sont stockés sur plusieurs infrastructures différentes garantissant d’avoir toujours à disposition à minima une copie des données préservées.
@@ -85,32 +85,32 @@ Cette solution est la plus avantageuse en termes de sécurité et de résilience
 Elle est également avantageuse d’un point de vue économique puisque la Blockchain Ternoa s’appuie ainsi sur des infrastructures ayant déjà financé le coût de développement nécessaire pour proposer des solutions de stockage décentralisées. 
 
 Ce système de stockage délégué est entièrement invisible du point de vue de l’utilisateur final puisqu’il se situe au niveau des couches basses de l’infrastructure du projet Ternoa.
-Smart Contracts et protocoles de transfert
+## Smart Contracts et protocoles de transfert
 Plusieurs protocoles de transmission sont développés sous forme de Smart Contract par Ternoa. Ainsi, des Dapps pourront être créés et pourront utiliser ces protocoles de transfert. Des exemples d’utilisation de ces protocoles ont été détaillés dans le chapitre “2. Cas d’usage : Capsules Temporelles Ternoa”. 
-Safe Protocol
+### Safe Protocol
 L’utilisateur peut stocker de la donnée sur la Blockchain Ternoa pour une durée définie, et la consulter à tout moment.
-D-DAY Protocol
+### D-DAY Protocol
 L'utilisateur choisit un jour/mois/année ou la capsule sera envoyée.
 ex : Alice souhaite préparer une capsule pour Bob qui doit partir à l'étranger le 17 janvier 2021. Elle prépare une capsule pour elle et pour lui avec à l'intérieur tous les éléments nécessaires : billets, réservation d'hôtels, etc.
 
 ex : Bob prépare une capsule pour l'anniversaire des 40 ans d'Alice. Il y ajoute des messages et photos qui automatiquement seront transmis à Alice le jour J.
-Compte à rebours
+### Compte à rebours
 L'utilisateur définit un nombre de jours avant l'envoi de la capsule. Il a la possibilité de réinitialiser le compte à rebours autant de fois qu'il le souhaite.
 
 ex : Alice part seule à la montagne pour faire une randonnée. Elle programme une capsule de secours qui sera envoyée à Bob si jamais elle ne se connecte pas pendant 3 jours.
 
 ex : Bob souhaite donner ses clés de Ledger Alice pour qu'elle puisse gérer ses cryptos monnaies après sa mort. Ne souhaitant pas indiquer son identité, il crée une capsule avec un compte à rebours de 1 an.
-Consent Protocol
+### Consent Protocol
 L'utilisateur autorise un groupe à déclencher l'envoi d'une capsule. L'utilisateur a un délai pour s'y opposer.
 
 ex : Alice gère le Wallet d'une grosse PME. Elle fait un AVC et se retrouve à l'hôpital. Le groupe de Bob, Christelle et Diane sont désignés comme autorisés à envoyer la capsule. Ils déclenchent l'action et Alice ne s'y opposant pas, l'ayant droit récupère les clés du wallet.
-Death Protocol
+### Death Protocol
 Unique par pays, basé sur les API des registres publics de décès , le Death Protocol déclenche la transmission de la capsule lors de l’enregistrement officiel du décès du bénéficiaire..
 
 ex : Alice a un accident de voiture et perd la vie. Elle apparaît dans le registre des décès. L'oracle en prend connaissance et transfère la capsule à ses bénéficiaires
-dApps
+### dApps
 Sur la première version, le langage RUST (via INK!) sera utilisé pour gérer les smart contracts. Les smarts contracts permettent d’exécuter des fonctions sur la blockchain et offrent la possibilité à la communauté de développer des applications sur la blockchain Ternoa.
-Workflow des Capsules Temporelles
+## Workflow des Capsules Temporelles
 La Blockchain Ternoa utilise des NFT comme “capsules temporelles”. Préalablement à l’envoi d’une capsule temporelle, l’utilisateur doit se provisionner son wallet de Capsule Coin et doit acheter un NFT compatible Ternoa. 
 Fig. 2. Schéma fonctionnel de la transmission des NFT sur la Blockchain Ternoa:
 
@@ -123,7 +123,7 @@ Générer les clés asymétriques et les clés secrètes de Shamir pour garantir
 Générer un secret symétrique et la chiffrer  avec la clé asymétrique ;
 Envoyer les shards sur le réseau de masternode pour faire valider les transactions.
 
-Structure du NFT et Fichiers
+## Structure du NFT et Fichiers
 Tokens non-fongibles (NFT)
 Le module Non-fungible-token fournit des fonctions de base pour créer et gérer des NFT tels que create_class, transfer, mint, burn, destroy_class. Ternoa utilise les NFT comme capsules temporelles.
 
@@ -131,7 +131,7 @@ Les NFT les plus répandus sont les ERC721. On peut ajouter à l'intérieur les 
 
 Les NFT basiques seront designées par TERNOA et une place de marché des NFT sera déployée en 2021.. Cette place de marché s'appuie sur le projet SubstraPunk et permet à n’'importe quel créateur d’avoir la possibilité de proposer et des vendre des NFT compatibles avec TERNOA.
  
-Décentralisation des données
+## Décentralisation des données
 La Blockchain Ternoa est pensée pour être une Parachain du réseau Ternoa. Ainsi, elle aura son propre réseau de serveurs et utilisera en même temps le réseau Ternoa pour décentraliser les données. 
 
 Fig. 3 - système de relais parachains polkadot
@@ -141,17 +141,17 @@ Les données sont chiffrées puis envoyées sur différents serveurs décentrali
 Fig.3  - Stockage décentralisé 
 
  
-Chiffrage asymétrique et sécurité
-Trusted Friends
+## Chiffrage asymétrique et sécurité
+### Trusted Friends
 ‘Trusted Friend’ est un module de récupération sociale M-of-N permettant aux utilisateurs d’accéder à leurs comptes en cas de perte de la clé privée ou d’un autre mécanisme d’authentification. Grâce à Trusted Friends, un utilisateur est en mesure d’effectuer des appels au nom d’un autre compte qu’il a récupéré. Le processus de récupération est protégé par des “amis” de confiance que le propriétaire du compte original choisit. Un seuil (M) sur N amis est nécessaire pour permettre à un autre compte d’accéder au compte récupérable
-Identity 
+### Identity 
 Tous les comptes peuvent se voir spécifier un nombre illimité de sous-comptes. Par définition, ceux-ci ont une propriété équivalente et chacun a un nom individuel. Sur Ternoa, chacune des capsules est détenue par un sous -compte. Seul le propriétaire peut y accéder avant que le protocole de transmission soit déclenché.
 
 Comme nous l'avons évoqué précédemment, seuls les destinataires de la capsule sont capables de la déchiffrer.
 
 Le shard primaire est transféré “Off-Chain” via différents vecteurs : depuis l'application mobile, depuis un support physique (ledger,etc) ou via un service spécialisé HSM (Amazon, Google).
 
-Backup du shard de la capsule
+### Backup du shard de la capsule
 Chaque capsule à un shard unique qui permet au possesseur du NFT de la déchiffrer. Ce shard peut-être chiffré et sauvegardé sur différents services de cloud : mobile Cloud, dropbox, etc ... Et il peut être exporté dans format TXT. Dans le cas d'un changement de téléphone ou de la perte de celui-ci, l'utilisateur une fois connecté à son wallet sera capable de réimporter et de déchiffrer le shard.
 Fig. 4 - Stockage off-chain P2P des clés
 
@@ -161,13 +161,13 @@ Le module social permettra de voir sa clé stockée de façon off-chain sur le r
 Fig. 5 - Stockage  off-chain P2P des clés
 
 Les autres shards seront stockées sur les Masternodes. Si le propriétaire du NFT demande à avoir accès au shards, le réseau lui donne si les autres conditions sont valables. Ces conditions sont gérées par les protocoles énoncés ci-dessous.
-Comportement des masternodes
+## Comportement des masternodes
 Les masternodes en NPoS détiennent des parties de Shamir sans jamais détenir l'ensemble des clés. Et ne sont pas en mesure de savoir à qui elles appartiennent. Chaque masternode est indépendant et n'a pas connaissance de la data des autres Masternodes. Les Masternodes ont la consigne de retourner les shards sur demande du propriétaire du NFT concerné, si et seulement si les conditions de la transmission sont remplies.
 
 Ajout d'un message L'ajout d'un message consiste à : Chiffrer un fichier (json/base64/media) avec la clé symétrique. Ajout de ce document sur le serveur de fichier et modification de l'arbre.
 
 Effacer un message: L'effacement d'un message consiste à mettre à jour l'arbre à fichier.
-Gouvernance
+## Gouvernance
 Le module Democracy gère l’administration du vote général des parties prenantes.
 
 Ternoa propose aux détenteurs de Capsule Coins d’être acteurs du réseau et d’avoir un pouvoir décisionnel quant à la gouvernance de la blockchain : évolutions, partenaires, protocoles, etc.
@@ -176,22 +176,22 @@ Il existe deux files d’attente différentes auxquelles une proposition peut ê
 la file d’attente des propositions comprenant toutes les propositions publiques, et
 la file d’attente externe comprenant une seule proposition qui provient d’une des origines externes (comme un groupe collectif). 
 À chaque période de lancement, un référendum est créé à partir d’une proposition prise à tour de rôle dans la file d’attente des propositions ou dans la file d’attente externe. Tout détenteur de Capsule Coins dans le système peut voter sur les référendums. Le système de vote utilise un vote à temps fixe en permettant au détenteur du jeton de fixer sa conviction derrière un vote. La conviction dicte la durée de verrouillage des jetons, ainsi que le multiplicateur qui échelonne la puissance du vote.
-Modèle Économique 
+## Modèle Économique 
 Le Capsule Coin est le jeton de la Blockchain Ternoa. Les transactions effectuées sur la blockchain Ternoa sont réglées en Capsule Coins à savoir :
 
 Création de NFT
 Chiffrage et stockage de données dans le temps
 
 Le volume de demande pour des NFT d’une part, et pour leur stockage dans le temps d’autre part, sont les deux leviers d’appréciation du Capsule Coin sur les marchés secondaires.
-Le Token Capsule Coin
+### Le Token Capsule Coin
 Symbole: CACO (Capsule Coin)
 Total Supply: 2 500 000 000 CACO (2,5 milliards)
 Prix à l’ICO: 0,006 € / CACO
-Répartition des Tokens
+### Répartition des Tokens
 
  
  
-Règles de libération des Tokens
+### Règles de libération des Tokens
 Airdrop
 11 mois de vesting, puis 40%, 30%, 30% après 11, 15, 20 mois de lock-ups
 Partenaires
@@ -206,25 +206,24 @@ Master Nodes
 11 mois de vesting pour les masternodes réservés en pré-ICO
 Team
 1% au TGE puis 15% (14% le dernier) par tous les 3 mois après 24 mois de lock-ups
-L’équipe 
-Team “core”
-Mickael Canu - CEO & CTO
+
+## L’équipe 
+
+### Team “core”
+
+#### Mickael Canu - CEO & CTO
 Co-fondateur et CTO de plusieurs start-ups, Mickael a conçu et développé différents smart contracts sur Ethereum : enregistrement d’assemblées générales (SYMENT), hachage (contractchain V2), ou encore archivage valeur probante (OVERHEADS).  Diplômé en Computer Science de l’université d’Osaka, Mickaël est conférencier blockchain et donne des cours de développement sur Ethereum auprès de la Wild Code School.
  
-Clément Téqui - CFO
+#### Clément Téqui - CFO
 Issu du secteur du secteur du conseil financier et spécialiste en Token Economics, Clément a créé la pratique blockchain du cabinet Accuracy. Il a notamment conseillé l’ICO de Peculium (9m€) et siège au Board de Linkcy. Diplômé de l’ESCP, il est l’auteur de l’ouvrage ”Blockchain, vers de nouvelles chaines de valeur” (Edition Eyrolles) et donne des cours sur les enjeux stratégiques de la blockchain à l’Université Paris Dauphine et à l’école Polytechnique. 
   
-Eliott Teissonniere - Blockchain Architect
+#### Eliott Teissonniere - Blockchain Architect
 Lead Architect Blockchain chez Nodle, Eliott a également développé la 1ère dApp de mariages sur Ethereum, et est le co-détenteur de plusieurs brevets liés à la technologie blockchain. Ex-CTO de BitNation (projet récompensé par l’UNESCO en 2017), Eliott est également mentor au Berkeley Blockchain Accelerator, et est intervenu dans le cadre de la Paris Blockchain Week, et de la Stanford Blockchain Conférence
  
-Sachié Takahashi - Directrice Marketing
+#### Sachié Takahashi - Directrice Marketing
 Professionnelle du marketing opérationnel et des ventes, Sachie a créé « from scratch » les équipes Sales & Marketing japonaises chez T3Media puis chez Rightsmith. Diplômée de Penn State University, Sachie met ses réseaux internationaux à contribution pour soutenir le développement de Ternoa.
 
-
-
-
-
-Team opérationnelle
+### Team opérationnelle
  Johann Canu – Lead Dev 
 Arno Trigallez – Dev Blockchain
 Yannick Bensaq – Dev Back End 
@@ -237,8 +236,3 @@ Martin Oliviero - Operations
 Audrey Duchene - Communication
 Nicolas Duchemin - Digital Marketing
 Laetitia Berretrot - Sales B2C
-
-
-
-
-
