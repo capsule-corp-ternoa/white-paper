@@ -37,6 +37,8 @@ L’Application Ternoa permet de créer des “Capsules Temporelles” pour chif
 
 *Fig. 1: Schéma fonctionnel d’utilisation de la Blockchain TERNOA par l’Application Ternoa*
 
+![Blockchain TERNOA](url_de_l'image "texte pour le titre, facultatif")
+
 Les flux en vert correspondent aux étapes du parcours d’un utilisateur sur  l’Application Ternoa pour  créer une capsule temporelle et transmettre des données numériques à des bénéficiaires déterminés. A terme, quatre protocoles permettront de déclencher la transmission de l’information :  
 Le Death Protocol pour une transmission post mortem ; 
 Le Consent Protocol pour une transmission basée sur le principe d’activation d’ouverture par des tiers et de non-opposition par l’émetteur ; 
