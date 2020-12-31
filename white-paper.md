@@ -37,7 +37,7 @@ L’Application Ternoa permet de créer des “Capsules Temporelles” pour chif
 
 *Fig. 1: Schéma fonctionnel d’utilisation de la Blockchain TERNOA par l’Application Ternoa*
 
-![Blockchain TERNOA 01](images/blockchain-useless-02.jpg "texte pour le titre, facultatif")
+![Blockchain TERNOA 01](images/blockchain-useless.jpg "texte pour le titre, facultatif")
 
 Les flux en vert correspondent aux étapes du parcours d’un utilisateur sur  l’Application Ternoa pour  créer une capsule temporelle et transmettre des données numériques à des bénéficiaires déterminés. A terme, quatre protocoles permettront de déclencher la transmission de l’information :  
 Le Death Protocol pour une transmission post mortem ; 
@@ -133,11 +133,13 @@ Unique par pays, basé sur les API des registres publics de décès , le Death P
 
 Sur la première version, le langage RUST (via INK!) sera utilisé pour gérer les smart contracts. Les smarts contracts permettent d’exécuter des fonctions sur la blockchain et offrent la possibilité à la communauté de développer des applications sur la blockchain Ternoa.
 
-## Workflow des Capsules Temporelles
+## 7. Workflow des Capsules Temporelles
 
 La Blockchain Ternoa utilise des NFT comme “capsules temporelles”. Préalablement à l’envoi d’une capsule temporelle, l’utilisateur doit se provisionner son wallet de Capsule Coin et doit acheter un NFT compatible Ternoa. 
 
 *Fig. 2. Schéma fonctionnel de la transmission des NFT sur la Blockchain Ternoa*
+
+![Blockchain TERNOA 03](images/blockchain-useless-03.jpg "texte pour le titre, facultatif")
 
 De point de vue de la Blockchain Ternoa, une création de capsule consiste à :
 
@@ -163,9 +165,13 @@ La Blockchain Ternoa est pensée pour être une Parachain du réseau Ternoa. Ain
 
 *Fig. 3 - système de relais parachains polkadot*
 
+![Blockchain TERNOA 04](images/blockchain-useless-04.jpg "texte pour le titre, facultatif")
+
 Les données sont chiffrées puis envoyées sur différents serveurs décentralisés. Nous utiliserons pour chaque message un arbre de merkle composé de l'ensemble des fichiers à récupérer pour recomposer le message. Il en sera de même pour la capsule, elle sera composée des fichiers qui composent les messages.
 
 *Fig.3  - Stockage décentralisé*
+
+![Blockchain TERNOA 01](images/blockchain-useless-05.jpg "texte pour le titre, facultatif")
 
 ## Chiffrage asymétrique et sécurité
 
@@ -184,11 +190,16 @@ Le shard primaire est transféré “Off-Chain” via différents vecteurs : dep
 ### Backup du shard de la capsule
 
 Chaque capsule à un shard unique qui permet au possesseur du NFT de la déchiffrer. Ce shard peut-être chiffré et sauvegardé sur différents services de cloud : mobile Cloud, dropbox, etc ... Et il peut être exporté dans format TXT. Dans le cas d'un changement de téléphone ou de la perte de celui-ci, l'utilisateur une fois connecté à son wallet sera capable de réimporter et de déchiffrer le shard.
-Fig. 4 - Stockage off-chain P2P des clés
+
+*Fig. 4 - Stockage off-chain P2P des clés*
+
+![Blockchain TERNOA 01](images/blockchain-useless-06.jpg "texte pour le titre, facultatif")
 
 Le module social permettra de voir sa clé stockée de façon off-chain sur le réseau mobile en P2P. Pour bénéficier gratuitement de cette option, il faut accepter de détenir aussi des clés chiffrées d'autres utilisateurs.
 
-Fig. 5 - Stockage  off-chain P2P des clés
+*Fig. 5 - Stockage  off-chain P2P des clés*
+
+![Blockchain TERNOA 01](images/blockchain-useless-07.jpg "texte pour le titre, facultatif")
 
 Les autres shards seront stockées sur les Masternodes. Si le propriétaire du NFT demande à avoir accès au shards, le réseau lui donne si les autres conditions sont valables. Ces conditions sont gérées par les protocoles énoncés ci-dessous.
 
@@ -208,7 +219,7 @@ Ternoa propose aux détenteurs de Capsule Coins d’être acteurs du réseau et 
 
 Il existe deux files d’attente différentes auxquelles une proposition peut être ajoutée avant qu’elle ne devienne un référendum:
 la file d’attente des propositions comprenant toutes les propositions publiques, et
-la file d’attente externe comprenant une seule proposition qui provient d’une des origines externes (comme un groupe collectif). 
+la file d’attente externe comprenant une seule proposition qui provient d’une des origines externes (comme un groupe collectif).
 À chaque période de lancement, un référendum est créé à partir d’une proposition prise à tour de rôle dans la file d’attente des propositions ou dans la file d’attente externe. Tout détenteur de Capsule Coins dans le système peut voter sur les référendums. Le système de vote utilise un vote à temps fixe en permettant au détenteur du jeton de fixer sa conviction derrière un vote. La conviction dicte la durée de verrouillage des jetons, ainsi que le multiplicateur qui échelonne la puissance du vote.
 
 ## Modèle Économique
@@ -228,6 +239,8 @@ Prix à l’ICO: 0,006 € / CACO
 
 ### Répartition des Tokens
 
+![Blockchain TERNOA 01](images/blockchain-useless-08.jpg "texte pour le titre, facultatif")
+
 ### Règles de libération des Tokens
 
 | :------------ | -------------:  |
@@ -245,27 +258,32 @@ Prix à l’ICO: 0,006 € / CACO
 ### Team “core”
 
 #### Mickael Canu - CEO & CTO
+
 Co-fondateur et CTO de plusieurs start-ups, Mickael a conçu et développé différents smart contracts sur Ethereum : enregistrement d’assemblées générales (SYMENT), hachage (contractchain V2), ou encore archivage valeur probante (OVERHEADS).  Diplômé en Computer Science de l’université d’Osaka, Mickaël est conférencier blockchain et donne des cours de développement sur Ethereum auprès de la Wild Code School.
 
 #### Clément Téqui - CFO
-Issu du secteur du secteur du conseil financier et spécialiste en Token Economics, Clément a créé la pratique blockchain du cabinet Accuracy. Il a notamment conseillé l’ICO de Peculium (9m€) et siège au Board de Linkcy. Diplômé de l’ESCP, il est l’auteur de l’ouvrage ”Blockchain, vers de nouvelles chaines de valeur” (Edition Eyrolles) et donne des cours sur les enjeux stratégiques de la blockchain à l’Université Paris Dauphine et à l’école Polytechnique. 
+
+Issu du secteur du secteur du conseil financier et spécialiste en Token Economics, Clément a créé la pratique blockchain du cabinet Accuracy. Il a notamment conseillé l’ICO de Peculium (9m€) et siège au Board de Linkcy. Diplômé de l’ESCP, il est l’auteur de l’ouvrage ”Blockchain, vers de nouvelles chaines de valeur” (Edition Eyrolles) et donne des cours sur les enjeux stratégiques de la blockchain à l’Université Paris Dauphine et à l’école Polytechnique.
   
 #### Eliott Teissonniere - Blockchain Architect
+
 Lead Architect Blockchain chez Nodle, Eliott a également développé la 1ère dApp de mariages sur Ethereum, et est le co-détenteur de plusieurs brevets liés à la technologie blockchain. Ex-CTO de BitNation (projet récompensé par l’UNESCO en 2017), Eliott est également mentor au Berkeley Blockchain Accelerator, et est intervenu dans le cadre de la Paris Blockchain Week, et de la Stanford Blockchain Conférence
- 
+
 #### Sachié Takahashi - Directrice Marketing
+
 Professionnelle du marketing opérationnel et des ventes, Sachie a créé « from scratch » les équipes Sales & Marketing japonaises chez T3Media puis chez Rightsmith. Diplômée de Penn State University, Sachie met ses réseaux internationaux à contribution pour soutenir le développement de Ternoa.
 
 ### Team opérationnelle
- Johann Canu – Lead Dev 
-Arno Trigallez – Dev Blockchain
-Yannick Bensaq – Dev Back End 
-Anthony Hervy – Dev Back End 
+
+Johann Canu – Lead Developer
+Arno Trigallez – Developer Blockchain
+Yannick Bensaq – Developer Back End
+Anthony Hervy – Developer Back End
 Lorraine Damiens - Project Manager
-Clément Levet - Design
+Clément Levet - Product Designer
 Aurélien Deville - Partenariats
 Valentin Peersman - Growth
 Martin Oliviero - Operations
 Audrey Duchene - Communication
 Nicolas Duchemin - Digital Marketing
-Laetitia Berretrot - Sales B2C
+Laetitia Berretrot - Sales B2C 
