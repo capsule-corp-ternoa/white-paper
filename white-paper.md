@@ -1,7 +1,6 @@
-TERNOA
-White Paper
+#TERNOA - White Paper
 
-Avant propos
+##Avant propos
 
 « Le moment présent est vite passé, c’est le souvenir qui dure » Eugène Marbeau, Les remarques et pensées 
 
