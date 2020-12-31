@@ -1,8 +1,8 @@
-#TERNOA - White Paper
+# TERNOA - White Paper
 
-##Avant propos
+## Avant propos
 
-« Le moment présent est vite passé, c’est le souvenir qui dure » Eugène Marbeau, Les remarques et pensées 
+« Le moment présent est vite passé, c’est le souvenir qui dure » Eugène Marbeau, Les remarques et pensées.
 
 Qui n’a jamais ressenti une grande joie en relisant au hasard quelques lignes de son journal intime du collège ? Qui ne s’est pas ému en re-regardant la vidéo de son mariage ? Quel historien ne s’est pas émerveillé retrouvant l’archive datant du 17ème lui permettant de mieux comprendre le règne de Louis XIV ? 
 
@@ -13,12 +13,14 @@ Les souvenirs sont donc des biens précieux qu’il s’agit de pouvoir traiter 
 À cela s’ajoute la difficulté de les transmettre de manière automatique et fiable à des tiers. Comment s’assurer que cette vidéo de moi, stockée sur un cloud quelconque, pourra être transmise dans 30 ans ou après ma mort à une personne qui m’est chère ?
 
 Pour répondre à ces enjeux, Capsule Corp. développe la blockchain Ternoa. Conçue pour stocker et transmettre à terme, de manière sécurisée, des données. Ternoa mobilise l’état de l’art de la technologie pour sécuriser les contenus et le bon déclenchement des transferts de données.
-Le Projet Ternoa
+
+## Le Projet Ternoa
+
 Le développement de la Blockchain est guidé par 3 grands principes: 
 
 Une infrastructure Blockchain fidèle à l’essence de la technologie à savoir : open source, décentralisée et démocratique ; 
-Un service accessible et utilisable par le grand public en faisant la part belle aux expériences utilisateurs optimisées autour d’interfaces homme-machine du quotidien : les applications web et mobiles. 
-Un modèle économique du Token natif de la Blockchain Ternoa proposant aux investisseurs une trajectoire de création de valeur claire, équitable et directement corrélée au succès du projet ; 
+* Un service accessible et utilisable par le grand public en faisant la part belle aux expériences utilisateurs optimisées autour d’interfaces homme-machine du quotidien : les applications web et mobiles. 
+* Un modèle économique du Token natif de la Blockchain Ternoa proposant aux investisseurs une trajectoire de création de valeur claire, équitable et directement corrélée au succès du projet ; 
 
 Ces principes sont mis en oeuvre grâce à :
 La Blockchain Ternoa qui permet le stockage et la transmission sécurisée des données. 
