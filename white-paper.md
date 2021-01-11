@@ -85,7 +85,7 @@ La Blockchain Ternoa s'appuie sur la NPoS qui est une variante du POS. La partic
 
 Dans ce système de validation des transactions, il existe des Validator et des Nominator qui sécurisent la Blockchain Ternoa de façon complémentaire.
 
-Les Validator verrouillent (stackent) des CACO et participent à l’élaboration du consensus de validation des transactions. Ils jouent un rôle crucial dans la sécurisation des transactions puisqu’ils sont garants de la validité des informations contenues dans les blocs de transactions et de la production des nouveaux blocs. En contrepartie de ce travail, les Validators reçoivent des CACO par bloc de transaction validée. En revanche, si le réseau s’aperçoit qu’un Validator essaye de valider ou produire des informations erronées, il est sanctionné et se voit retirer tout ou partie des CACO verrouillés. Les Nominators sélectionnent les bons Validators pour leur déléguer la gestion des CACO qu’ils souhaitent verrouiller. 
+Les Validator verrouillent (stakent) des CACO et participent à l’élaboration du consensus de validation des transactions. Ils jouent un rôle crucial dans la sécurisation des transactions puisqu’ils sont garants de la validité des informations contenues dans les blocs de transactions et de la production des nouveaux blocs. En contrepartie de ce travail, les Validators reçoivent des CACO par bloc de transaction validée. En revanche, si le réseau s’aperçoit qu’un Validator essaye de valider ou produire des informations erronées, il est sanctionné et se voit retirer tout ou partie des CACO verrouillés. Les Nominators sélectionnent les bons Validators pour leur déléguer la gestion des CACO qu’ils souhaitent verrouiller. 
 
 Ce système crée un cercle vertueux: les Validators sont en compétition pour offrir les meilleures conditions de rendement aux Nominators tandis que ces derniers apportent aux Validators un volume de CACO verrouillés plus important.
 
@@ -121,7 +121,7 @@ L'utilisateur définit un nombre de jours avant l'envoi de la capsule. Il a la p
 
 *ex : Alice part seule à la montagne pour faire une randonnée. Elle programme une capsule de secours qui sera envoyée à Bob si jamais elle ne se connecte pas pendant 3 jours.*
 
-*ex : Bob souhaite donner ses clés de Ledger Alice pour qu'elle puisse gérer ses cryptos monnaies après sa mort. Ne souhaitant pas indiquer son identité, il crée une capsule avec un compte à rebours de 1 an.*
+*ex : Bob est militaire et souhaite donner ses clés de Ledger Alice pour qu'elle puisse gérer ses cryptos monnaies, si jamais il lui arrivait quelque chose. En ce sens, il crée une capsule avec un compte à rebours de 1 an avant de partir en mission.*
 
 ### Consent Protocol
 
@@ -153,7 +153,8 @@ De point de vue de la Blockchain Ternoa, une création de capsule consiste à :
 * Définir le type de capsule dans le NFT selon les protocoles précédemment définis ;
 * Créer le lien vers l'arbre à fichiers dans le NFT  ;
 * Générer les clés asymétriques et les clés secrètes de Shamir pour garantir le niveau de sécurité maximal sur les données et l’accès à la capsule ;
-* Générer un secret symétrique et la chiffrer  avec la clé asymétrique ;
+* Générer un secret symétrique et le chiffrer avec la clé asymétrique ;
+* Activation du protocole d’envoie sélectionné via les oracles qui interagissent avec la blockchain ;
 * Envoyer les shards sur le réseau de masternode pour faire valider les transactions.
 
 ## Structure du NFT et Fichiers
@@ -171,7 +172,7 @@ Les NFT les plus répandus sont les ERC721. On peut ajouter à l'intérieur les 
     "owner" : "",
     "creator" : ""
 
-Les NFT basiques seront designées par TERNOA et une place de marché des NFT sera déployée en 2021.. Cette place de marché s'appuie sur le projet SubstraPunk et permet à n’'importe quel créateur d’avoir la possibilité de proposer et des vendre des NFT compatibles avec TERNOA.
+Les NFT basiques seront designées par TERNOA et une place de marché des NFT sera déployée en 2021.. Cette place de marché s'appuie sur le projet SubstraPunk et permet à n'importe quel créateur d’avoir la possibilité de proposer et des vendre des NFT compatibles avec TERNOA.
 
 ## Décentralisation des données
 
@@ -203,7 +204,7 @@ Le shard primaire est transféré “Off-Chain” via différents vecteurs : dep
 
 ### Backup du shard de la capsule
 
-Chaque capsule à un shard unique qui permet au possesseur du NFT de la déchiffrer. Ce shard peut-être chiffré et sauvegardé sur différents services de cloud : mobile Cloud, dropbox, etc ... Et il peut être exporté dans format TXT. Dans le cas d'un changement de téléphone ou de la perte de celui-ci, l'utilisateur une fois connecté à son wallet sera capable de réimporter et de déchiffrer le shard.
+Chaque capsule a un shard unique qui permet au possesseur du NFT de la déchiffrer. Ce shard peut-être chiffré et sauvegardé sur différents services de cloud : mobile Cloud, dropbox, etc. Et il peut être exporté dans format TXT. Dans le cas d'un changement de téléphone ou de la perte de celui-ci, l'utilisateur une fois connecté à son wallet sera capable de réimporter et de déchiffrer le shard.
 
 *Fig. 5 - Stockage off-chain P2P des clés.*
 
@@ -221,7 +222,7 @@ Les autres shards seront stockées sur les Masternodes. Si le propriétaire du N
 
 Les masternodes en NPoS détiennent des parties de Shamir sans jamais détenir l'ensemble des clés. Et ne sont pas en mesure de savoir à qui elles appartiennent. Chaque masternode est indépendant et n'a pas connaissance de la data des autres Masternodes. Les Masternodes ont la consigne de retourner les shards sur demande du propriétaire du NFT concerné, si et seulement si les conditions de la transmission sont remplies.
 
-Ajout d'un message L'ajout d'un message consiste à : Chiffrer un fichier (json/base64/media) avec la clé symétrique. Ajout de ce document sur le serveur de fichier et modification de l'arbre.
+Ajout d'un message : l'ajout d'un message consiste à : Chiffrer un fichier (json/base64/media) avec la clé symétrique. Ajout de ce document sur le serveur de fichier et modification de l'arbre.
 
 Effacer un message: L'effacement d'un message consiste à mettre à jour l'arbre à fichier.
 
@@ -241,10 +242,11 @@ Il existe deux files d’attente différentes auxquelles une proposition peut ê
 
 Le Capsule Coin est le jeton de la Blockchain Ternoa. Les transactions effectuées sur la blockchain Ternoa sont réglées en Capsule Coins à savoir :
 
-Création de NFT
-Chiffrage et stockage de données dans le temps
+* Création de NFT
+* Chiffrage et stockage de données dans le temps
+* Rémunération des Master Nodes
 
-Le volume de demande pour des NFT d’une part, et pour leur stockage dans le temps d’autre part, sont les deux leviers d’appréciation du Capsule Coin sur les marchés secondaires.
+Le volume de demande pour des NFT d’une part, et pour leur stockage dans le temps d’autre part, sont les deux leviers d’appréciation du Capsule Coin sur les marchés secondaires. Dans une moindre mesure, la vitesse de circulation des NFT (l’avènement du protocole de transfert) jouera aussi un rôle.
 
 ### Le Token Capsule Coin
 
