@@ -269,7 +269,6 @@ Prix à l’ICO: 0,006 € / CACO
 | Ventes de Tokens      |     5% au TGE puis 10%, 20%, 25% et 40% après 8, 14, 20 et 26 mois de locks-ups               |
 | Master Nodes          |     11 mois de vesting pour les masternodes réservés en pré-ICO                               |
 | Team                  |     8 mois de vesting, puis 40%, 30%, 30% après 8, 12, 17 mois de lock-ups                    |
-| Advisors              |     1% au TGE puis 15% (14% le dernier) par tous les 3 mois après 24 mois de lock-ups         |
 
 ## L’équipe
 
