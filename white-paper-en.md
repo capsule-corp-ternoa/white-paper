@@ -260,7 +260,6 @@ ICO price: € 0.006 / CACO
 | Ventes de Tokens      |     5% at TGE then 10%, 20%, 25% and 40% after 8, 14, 20 and 26 months of lock-ups              |
 | Master Nodes          |     11 months of vesting for masternodes booked in pre-ICO                            |
 | Team                  |     8 months of vesting, then 40%, 30%, 30% after 8, 12, 17 months of lock-ups                  |
-| Advisors              |     1% at TGE then 15% (14% the last) every 3 months after 24 months of lock-ups        |
 
 ## The team
 
