@@ -171,7 +171,7 @@ The basic NFTs will be designed by TERNOA and NFT marketplace will be deployed i
 
 ## Data decentralization
 
-The Ternoa Blockchain is designed to be a Parachain of the Ternoa network. Thus, it will have its own network of servers and at the same time use the Ternoa network to decentralize data.
+The Ternoa Blockchain is designed to be a Parachain of the Polkadot network. Thus, it will have its own network of servers and at the same time use the Ternoa network to decentralize data.
 
 *Fig. 3 - polkadot parachain relay system.*
 
