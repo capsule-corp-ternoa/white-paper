@@ -176,7 +176,7 @@ Les NFT basiques seront designées par TERNOA et une place de marché des NFT se
 
 ## Décentralisation des données
 
-La Blockchain Ternoa est pensée pour être une Parachain du réseau Ternoa. Ainsi, elle aura son propre réseau de serveurs et utilisera en même temps le réseau Ternoa pour décentraliser les données.
+La Blockchain Ternoa est pensée pour être une Parachain du réseau Polkadot. Ainsi, elle aura son propre réseau de serveurs et utilisera en même temps le réseau Ternoa pour décentraliser les données.
 
 *Fig. 3 - système de relais parachains polkadot.*
 
