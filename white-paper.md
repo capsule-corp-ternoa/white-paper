@@ -289,17 +289,4 @@ Lead Architect Blockchain chez Nodle, Eliott a également développé la 1ère d
 
 Professionnelle du marketing opérationnel et des ventes, Sachie a créé « from scratch » les équipes Sales & Marketing japonaises chez T3Media puis chez Rightsmith. Diplômée de Penn State University, Sachie met ses réseaux internationaux à contribution pour soutenir le développement de Ternoa.
 
-### Team opérationnelle
-
-* Johann Canu – Lead Developer
-* Arno Trigallez – Developer Blockchain
-* Yannick Bensaq – Developer Back End
-* Anthony Hervy – Developer Back End
-* Lorraine Damiens - Project Manager
-* Clément Levet - Product Designer
-* Aurélien Deville - Partenariats
-* Valentin Peersman - Growth
-* Martin Oliviero - Operations
-* Audrey Duchene - Communication
-* Nicolas Duchemin - Digital Marketing
-* Laetitia Berretrot - Sales B2C 
+Our team is growing, check this out : www.ternoa.com
