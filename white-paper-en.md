@@ -4,15 +4,15 @@
 
 *« The present moment passes quickly, it is the memory that lasts »* Eugène Marbeau, Les remarques et pensées.
 
-Who has never felt great joy in randomly rereading a few lines from his college diary? Who hasn't been moved by re-watching the video ofhis wedding? Which historian has not been amazed to find the archivedating from the 17th century allowing him to better understand the reign of Louis XIV?
+Who has never felt great joy in randomly rereading a few lines from their college diary? Who hasn't been moved by re-watching the video of their wedding? Which historian has not been amazed to find the archive dating from the 17th century allowing him to better understand the reign of Louis XIV?
 
-Memories are an essential part of who we are. If memory plays an essential role in shaping us, the reality is that memory is by nature partial and only media such as images, sound and texts enable us to keep and remember our past. The supports also give the possibility totransmit memories to the generations that succeed us so that they can continue to celebrate the memory of those who have left.
+Memories are an essential part of who we are. If memory plays an essential role in shaping us, then the truth is that memory is by its very nature a partial thing, and only media such as images, sound and texts enable us to keep and remember our past. These supports also allow us to transmit memories to succeeding generations so that they can continue to celebrate the memory of those who have left.
 
-Memories are therefore precious goods that we must be able to treat as such. The paradox of the last few decades is to have succeeded in democratizing, thanks to digital technology, the production of memory supports in an almost unlimited way, but to have failed to offer solutions to preserve them over time. Indeed, it has become increasingly difficult to store all the data we create about our lives in a secure and reliable way. A USB key or a hard disk can be easily lost,storage clouds do not guarantee a strong respect for privacy, printed photos see their colors fade, etc...
+Memories are therefore precious goods that we must be able to treat as such. The paradox of the last few decades is to have succeeded in democratizing, thanks to digital technology, the production of memory-supports in an almost unlimited way, while at the same time having failed to offer solutions to preserve them over time. Indeed, it has become increasingly difficult to store all the data we create about our lives in a secure and reliable way. A USB key or a hard disk can be easily lost; storage clouds do not guarantee a strong respect for privacy; printed photos see their colours fade, etc...
 
-Added to this is the difficulty of automatically and reliably transmitting them to third parties. How can we be sure that this videoof myself, stored in some cloud, will be transmitted in 30 years or after my death to a loved one?
+Added to this is the difficulty of automatically and reliably transmitting them to third parties. How can we be sure that this video of myself, stored in some cloud, will be transmitted in 30 years, or after my death, to a loved one?
 
-To respond to these demands, Capsule Corp. is developing the Ternoablockchain. Designed to store and eventually transmit data in a secure way. Ternoa uses the state-of-the-art technology to secure thecontents and the proper triggering of data transfers.
+In response to these needs, Capsule Corp. is developing the Ternoa Blockchain. Designed to store and eventually transmit data in a secure way, Ternoa uses the state-of-the-art technology to secure the contents and the proper triggering of data transfers.
 
 ## The Ternoa Project
 
@@ -82,9 +82,9 @@ The Ternoa Blockchain is based on NPoS which is a variant of POS. The particular
 
 In this transaction validation system, there are Validators and Nominators that secure the Ternoa Blockchain in a complementary way.
 
-Validators lock (stack) CACOs and participate in the development of the transaction validation consensus. Validators play a crucial role in securing transactions by ensuring the validity of the information contained in transaction blocks and the production of new blocks. In return for this work, Validators receive CACOs per validated transaction block. On the other hand, if the network notices that a Validator is trying to validate or produce erroneous information, it is sanctioned and all or part of the locked CACOs are removed. Nominators select the right Validators to delegate the management of the CACOs that they wish to lock.
+Validators lock (stack) CAPS and participate in the development of the transaction validation consensus. Validators play a crucial role in securing transactions by ensuring the validity of the information contained in transaction blocks and the production of new blocks. In return for this work, Validators receive CAPS per validated transaction block. On the other hand, if the network notices that a Validator is trying to validate or produce erroneous information, it is sanctioned and all or part of the locked CAPS are removed. Nominators select the right Validators to delegate the management of the CAPS that they wish to lock.
 
-This system creates a virtuous circle: Validators compete to provide the best performance conditions for the Nominators while the Nominators provide the Validators with a higher volume of locked CACOs.
+This system creates a virtuous circle: Validators compete to provide the best performance conditions for the Nominators while the Nominators provide the Validators with a higher volume of locked CAPS.
 
 ## Interoperability and file storage
 
@@ -241,9 +241,9 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 
 ### The Token Capsule Coin
 
-Symbol: CACO (Capsule Coin)
-Total Supply: 2 500 000 000 CACO (2.5 billion)
-ICO price: € 0.006 / CACO
+Symbol: CAPS (Capsule Coin)
+Total Supply: 2 500 000 000 CAPS (2.5 billion)
+ICO price: € 0.006 / CAPS
 
 ### Distribution of Tokens
 
@@ -281,19 +281,4 @@ Lead Blockchain Architect at Nodle, Eliott has also developed the first marriage
 
 Operational marketing and sales professional, Sachié created the Japanese Sales & Marketing teams "from scratch" at T3Media and then at Rightsmith. Graduate of Penn State University, Sachié uses her international networks to support Ternoa's development.
 
-### Team opérationnelle
-
-* Johann Canu – Blockchain Developper
-* Arno Trigallez – Developer Blockchain
-* Yannick Bensaq – Developer Back End
-* Vincent Deglin – Head of communication
-* Lorraine Damiens - Project Manager
-* Clément Levet - Product Designer
-* Christelle Coutant - Operations Manager
-* Laurent Permingeat - Operating Officer
-* Aurélien Deville - Partnership Manager
-* Valentin Peersman - Business Development​
-* Martin Oliviero - Finance Ops
-* Audrey Duchene - Communication
-* Nicolas Duchemin - Digital Marketing
-* Xavier Ramires - Angel
+Our team is growing, check this out : www.ternoa.com
