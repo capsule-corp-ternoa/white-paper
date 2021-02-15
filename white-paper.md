@@ -85,9 +85,9 @@ La Blockchain Ternoa s'appuie sur la NPoS qui est une variante du POS. La partic
 
 Dans ce système de validation des transactions, il existe des Validator et des Nominator qui sécurisent la Blockchain Ternoa de façon complémentaire.
 
-Les Validator verrouillent (stackent) des CACO et participent à l’élaboration du consensus de validation des transactions. Ils jouent un rôle crucial dans la sécurisation des transactions puisqu’ils sont garants de la validité des informations contenues dans les blocs de transactions et de la production des nouveaux blocs. En contrepartie de ce travail, les Validators reçoivent des CACO par bloc de transaction validée. En revanche, si le réseau s’aperçoit qu’un Validator essaye de valider ou produire des informations erronées, il est sanctionné et se voit retirer tout ou partie des CACO verrouillés. Les Nominators sélectionnent les bons Validators pour leur déléguer la gestion des CACO qu’ils souhaitent verrouiller. 
+Les Validator verrouillent (stackent) des CAPS et participent à l’élaboration du consensus de validation des transactions. Ils jouent un rôle crucial dans la sécurisation des transactions puisqu’ils sont garants de la validité des informations contenues dans les blocs de transactions et de la production des nouveaux blocs. En contrepartie de ce travail, les Validators reçoivent des CAPS par bloc de transaction validée. En revanche, si le réseau s’aperçoit qu’un Validator essaye de valider ou produire des informations erronées, il est sanctionné et se voit retirer tout ou partie des CAPS verrouillés. Les Nominators sélectionnent les bons Validators pour leur déléguer la gestion des CAPS qu’ils souhaitent verrouiller. 
 
-Ce système crée un cercle vertueux: les Validators sont en compétition pour offrir les meilleures conditions de rendement aux Nominators tandis que ces derniers apportent aux Validators un volume de CACO verrouillés plus important.
+Ce système crée un cercle vertueux: les Validators sont en compétition pour offrir les meilleures conditions de rendement aux Nominators tandis que ces derniers apportent aux Validators un volume de CAPS verrouillés plus important.
 
 ## Interopérabilité et stockage des fichiers
 
@@ -248,9 +248,9 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 
 ### Le Token Capsule Coin
 
-Symbole: CACO (Capsule Coin)
-Total Supply: 2 500 000 000 CACO (2,5 milliards)
-Prix à l’ICO: 0,006 € / CACO
+Symbole: CAPS (Capsule Coin)
+Total Supply: 2 500 000 000 CAPS (2,5 milliards)
+Prix à l’ICO: 0,006 € / CAPS
 
 ### Répartition des Tokens
 
