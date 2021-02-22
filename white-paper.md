@@ -269,6 +269,8 @@ Prix à l’ICO: 0,006 € / CAPS
 | Liquidity and reward pools​          |     7 months vesting period, then 5%, 10%, 10%, 10%, 15%, 15%, 15%, 20%  after 7, 10, 13, 16, 19, 23, 27, 31 months of lock-up​ |
 | Team                  |     24 months vesting period, then 10% every 6 months​                  |
 
+![repartitions](images/released-tokens.jpg "texte pour le titre, facultatif")
+
 ## L’équipe
 
 ### Team “core”
