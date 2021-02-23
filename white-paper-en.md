@@ -254,10 +254,10 @@ ICO price: € 0.008 / CAPS
 |                       |                                                                                               |
 | :-------------------- | :-------------------------------------------------------------------------------------------: |
 | Airdrop               |     11 months vesting period, then 30%, 40%, 30% after 10, 14, 22 months of lock-up​                 |
-| Pré-Ventes 1          |     1% at TGE, 10 months vesting, then 40%, 30%, 29% after 10, 16, 22 months of lock-up​  |
-| Pré-Ventes 2          |     7 months vesting period, then 1%, 30%, 40, 29% after 7, 11, 15, 22 months of lock-up​  |
+| Presale 1          |     1% at TGE, 10 months vesting, then 40%, 30%, 29% after 10, 16, 22 months of lock-up​  |
+| Presale 2          |     7 months vesting period, then 1%, 30%, 40, 29% after 7, 11, 15, 22 months of lock-up​  |
 | ICO & Pre-ICO​      |     12 months vesting period, then 25%, 25%, 25%, 25% after 12, 16, 20, 24 months of lock-up​             |
-| Partenaires           |     7 months vesting period, then 5%, 30%, 30%, 35% after 7, 10, 14, 18 months of lock-up​                |
+| Partnership           |     7 months vesting period, then 5%, 30%, 30%, 35% after 7, 10, 14, 18 months of lock-up​                |
 | Contributors              |     7 months vesting period, then 5%, 30%, 30%, 35% after 7, 10, 14, 18 months of lock-up​                  |
 | Liquidity and reward pools​          |     7 months vesting period, then 5%, 10%, 10%, 10%, 15%, 15%, 15%, 20%  after 7, 10, 13, 16, 19, 23, 27, 31 months of lock-up​ |
 | Team                  |     24 months vesting period, then 10% every 6 months​                  |
