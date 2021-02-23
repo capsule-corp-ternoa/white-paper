@@ -248,9 +248,9 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 
 ### Le Token Capsule Coin
 
-Symbole: CAPS (Capsule Coin)
-Total Supply: 2 500 000 000 CAPS (2,5 milliards)
-Prix à l’ICO: 0,008 € / CAPS
+* Symbole: "CAPS"
+* Total Supply: 2 500 000 000 CAPS (2,5 milliards)
+* Prix à l’ICO: 0,008 € / CAPS
 
 ### Répartition des Tokens
 
