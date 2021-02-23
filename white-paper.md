@@ -265,8 +265,8 @@ Prix à l’ICO: 0,008 € / CAPS
 | Pré-Ventes 2          |     7 mois de, puis 1%, 30%, 40, 29% après 7, 11, 15, 22 mois de lock-up​  |
 | ICO & Pre-ICO​      |     12 mois de, puis 25%, 25%, 25%, 25% après 12, 16, 20, 24 mois de lock-up​             |
 | Partenaires           |     7 mmois de, puis 5%, 30%, 30%, 35% après 7, 10, 14, 18 mois de lock-up​                |
-| Contributors              |     7 mois de, puis 5%, 30%, 30%, 35% après 7, 10, 14, 18 mois de lock-up​                  |
-| Liquidity and reward pools​          |     7 mois de, puis 5%, 10%, 10%, 10%, 15%, 15%, 15%, 20%  après 7, 10, 13, 16, 19, 23, 27, 31 mois de lock-up​ |
+| Contributerus              |     7 mois de, puis 5%, 30%, 30%, 35% après 7, 10, 14, 18 mois de lock-up​                  |
+| Fonds de liquidité et récompense​s          |     7 mois de, puis 5%, 10%, 10%, 10%, 15%, 15%, 15%, 20%  après 7, 10, 13, 16, 19, 23, 27, 31 mois de lock-up​ |
 | Team                  |     24 mois de, puis 10% tous les six mois​                  |
 
 ![repartitions](images/released-tokens.jpg "texte pour le titre, facultatif")
