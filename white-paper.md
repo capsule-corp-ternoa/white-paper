@@ -271,11 +271,9 @@ Prix à l’ICO: 0,008 € / CAPS
 
 ![repartitions](images/released-tokens.jpg "texte pour le titre, facultatif")
 
-## L’équipe
-
 ### Team “core”
 
-#### Mickael Canu - CEO & CTO
+#### Mickael Canu - CEO/CTO
 
 Co-fondateur et CTO de plusieurs start-ups, Mickael a conçu et développé différents smart contracts sur Ethereum : enregistrement d’assemblées générales (SYMENT), hachage (contractchain V2), ou encore archivage valeur probante (OVERHEADS).  Diplômé en Computer Science de l’université d’Osaka, Mickaël est conférencier blockchain et donne des cours de développement sur Ethereum auprès de la Wild Code School.
 
@@ -287,8 +285,4 @@ Issu du secteur du secteur du conseil financier et spécialiste en Token Economi
 
 Lead Architect Blockchain chez Nodle, Eliott a également développé la 1ère dApp de mariages sur Ethereum, et est le co-détenteur de plusieurs brevets liés à la technologie blockchain. Ex-CTO de BitNation (projet récompensé par l’UNESCO en 2017), Eliott est également mentor au Berkeley Blockchain Accelerator, et est intervenu dans le cadre de la Paris Blockchain Week, et de la Stanford Blockchain Conférence
 
-#### Sachié Takahashi - Directrice Marketing
-
-Professionnelle du marketing opérationnel et des ventes, Sachie a créé « from scratch » les équipes Sales & Marketing japonaises chez T3Media puis chez Rightsmith. Diplômée de Penn State University, Sachie met ses réseaux internationaux à contribution pour soutenir le développement de Ternoa.
-
-Our team is growing, check this out : www.ternoa.com
+Notre équipe s'agrandit, visitez : www.ternoa.com

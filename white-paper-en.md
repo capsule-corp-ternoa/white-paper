@@ -264,9 +264,7 @@ ICO price: € 0.008 / CAPS
 
 ![repartitions](images/released-tokens.jpg "texte pour le titre, facultatif")
 
-## The team
-
-### Team “core”
+### Core Team
 
 #### Mickael Canu - CEO & CTO
 
@@ -279,9 +277,5 @@ Coming from the financial advisory sector and specialist in Token Economics, Cl�
 #### Eliott Teissonniere - Blockchain Architect
 
 Lead Blockchain Architect at Nodle, Eliott has also developed the first marriages dApp on Ethereum, and is the co-holder of several patents related to the blockchain technology. Former CTO of BitNation (project awarded by UNESCO in 2017), Eliott is also a mentor at the Berkeley Blockchain Accelerator, and intervened at Paris Blockchain Week, and at the Stanford Blockchain Conference.
-
-#### Sachié Takahashi - COO
-
-Operational marketing and sales professional, Sachié created the Japanese Sales & Marketing teams "from scratch" at T3Media and then at Rightsmith. Graduate of Penn State University, Sachié uses her international networks to support Ternoa's development.
 
 Our team is growing, check this out : www.ternoa.com
