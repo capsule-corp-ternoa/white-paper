@@ -266,7 +266,7 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 \*: TGE: February 26th of 2021
 \*: Listing: septembre of 2021
 
-![repartitions](images/released-tokens.jpg "texte pour le titre, facultatif")
+![repartitions](images/vesting-period.jpg "texte pour le titre, facultatif")
 
 ### Core Team
 

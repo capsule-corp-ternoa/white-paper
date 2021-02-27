@@ -273,7 +273,7 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 \*:TGE: 26 février 2021
 \*:Listing: septembre 2021
 
-![repartitions](images/released-tokens.jpg "texte pour le titre, facultatif")
+![repartitions](images/vesting-period.jpg "texte pour le titre, facultatif")
 
 ### Team “core”
 
