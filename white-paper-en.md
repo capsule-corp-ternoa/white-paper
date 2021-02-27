@@ -253,14 +253,18 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 
 |                       |                                                                                               |
 | :-------------------- | :-------------------------------------------------------------------------------------------: |
-| Airdrop               |     11 months vesting period, then 30%, 40%, 30% after 10, 14, 22 months of lock-up​                 |
-| Presale 1          |     1% at TGE, 10 months vesting, then 40%, 30%, 29% after 10, 16, 22 months of lock-up​  |
-| Presale 2          |     7 months vesting period, then 1%, 30%, 40, 29% after 7, 11, 15, 22 months of lock-up​  |
-| ICO & Pre-ICO​      |     12 months vesting period, then 25%, 25%, 25%, 25% after 12, 16, 20, 24 months of lock-up​             |
-| Partnership           |     7 months vesting period, then 5%, 30%, 30%, 35% after 7, 10, 14, 18 months of lock-up​                |
-| Contributors              |     7 months vesting period, then 5%, 30%, 30%, 35% after 7, 10, 14, 18 months of lock-up​                  |
-| Liquidity and reward pools​          |     7 months vesting period, then 5%, 10%, 10%, 10%, 15%, 15%, 15%, 20%  after 7, 10, 13, 16, 19, 23, 27, 31 months of lock-up​ |
-| Team                  |     24 months vesting period, then 10% every 6 months​                  |
+| Airdrop               |     40% 3 months after listing, then 30% after 4 months, then 30% after 4 other months​                 |
+| Advisors and Partnerships          |     15% at listing, 25% 3 months later, then 30% after 4 months, then 30% after 4 other months​  |
+| Presale 1          |     1% at TGE, 40% 3 months after listing, then 30% after 6 months and 29% after 6 other months​  |
+| Presale 2          |     15% at listing, 25% 4 months later, 30% 4 months later, then the remaining 30% 7 months later​  |
+| Contributors​      |     5% at listing, 30% 3 months later, then 30% after 4 months and 35% after 4 other months​             |
+| ICO Public Sale           |     10% at listing, 15% 5 months later, then 30% after 4 months and 25% after 4 other 4 months​                |
+| Team Founders              |     Full Lock up for 2 years then 10% every 6 months​                  |
+| Foundation​          |     allocation for projects that support and participate in the Ternoa Blockchain ecosystem​ |
+| Masternodes                  |     allocation depending in the quantity of Masternodes and staking by validators and nominators​                  |
+
+/*: TGE: February 26th of 2021
+/*: Listing: septembre of 2021
 
 ![repartitions](images/released-tokens.jpg "texte pour le titre, facultatif")
 
