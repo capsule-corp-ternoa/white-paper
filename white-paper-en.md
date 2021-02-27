@@ -251,7 +251,7 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 
 ### Token release rules
 
-|                       |                                                                                               |
+|                Categories       |          Vesting                                                                                     |
 | :-------------------- | :-------------------------------------------------------------------------------------------: |
 | Airdrop               |     40% 3 months after listing, then 30% after 4 months, then 30% after 4 other months​                 |
 | Advisors and Partnerships          |     15% at listing, 25% 3 months later, then 30% after 4 months, then 30% after 4 other months​  |
