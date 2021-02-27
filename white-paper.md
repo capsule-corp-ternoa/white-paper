@@ -270,8 +270,8 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 | Foundation          |     Utilisation afin de soutenir les projets exploitant la blockchain Ternoa​ |
 | Masternodes                 |     Flottant en fonction de la quantité de Masternodes, et le staking par les validators et les nominators                  |
 
-/*:TGE: 26 février 2021
-/*:Listing: septembre 2021
+\*:TGE: 26 février 2021
+\*:Listing: septembre 2021
 
 ![repartitions](images/released-tokens.jpg "texte pour le titre, facultatif")
 

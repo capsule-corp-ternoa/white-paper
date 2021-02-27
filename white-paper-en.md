@@ -263,8 +263,8 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 | Foundation​          |     allocation for projects that support and participate in the Ternoa Blockchain ecosystem​ |
 | Masternodes                  |     allocation depending in the quantity of Masternodes and staking by validators and nominators​                  |
 
-/*: TGE: February 26th of 2021
-/*: Listing: septembre of 2021
+\*: TGE: February 26th of 2021
+\*: Listing: septembre of 2021
 
 ![repartitions](images/released-tokens.jpg "texte pour le titre, facultatif")
 
