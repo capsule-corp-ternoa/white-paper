@@ -260,14 +260,17 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 
 |                       |                                                                                               |
 | :-------------------- | :-------------------------------------------------------------------------------------------: |
-| Airdrop               |     11 mois de vesting, puis 30%, 40%, 30% après 10, 14, 22 mois de lock-up​                 |
-| Pré-Ventes 1          |     1% au TGE, 10 mois de vesting, puis 40%, 30%, 29% après 10, 16, 22 mois de lock-up​  |
-| Pré-Ventes 2          |     7 mois de, puis 1%, 30%, 40, 29% après 7, 11, 15, 22 mois de lock-up​  |
-| ICO & Pre-ICO​      |     12 mois de, puis 25%, 25%, 25%, 25% après 12, 16, 20, 24 mois de lock-up​             |
-| Partenaires           |     7 mmois de, puis 5%, 30%, 30%, 35% après 7, 10, 14, 18 mois de lock-up​                |
-| Contributerus              |     7 mois de, puis 5%, 30%, 30%, 35% après 7, 10, 14, 18 mois de lock-up​                  |
-| Fonds de liquidité et récompense​s          |     7 mois de, puis 5%, 10%, 10%, 10%, 15%, 15%, 15%, 20%  après 7, 10, 13, 16, 19, 23, 27, 31 mois de lock-up​ |
-| Team                  |     24 mois de, puis 10% tous les six mois​                  |
+| Airdrop               |     40% 3 mois après le listing, puis 30% 4 mois plus tard, puis encore 30% 4 mois plus tard​                 |
+| Advisors and Pertnerships        |     15% au listing, 25% 3 mois plus tard, puis 30% 4 mois plus tard, puis 30% 4 mois plus tard​  |
+| Pré-Ventes 1          |     1% au TGE, 40% 3 mois après le listing, puis 30% 6 mois plus tard, puis 29% 6 mois plus tard​  |
+| Pré-Ventes 2          |     15% au listing, 25% 4 mois plus tard, 30% 4 mois plus tard, puis 30% 7 mois plus tard​  |
+| Contributors​      |     5% au listing, 30% 3 mois plus tard, puis 30% 4 mois plus tard, et 35% 4 mois plus tard​             |
+| ICO & Pre-ICO Tokens          |     10% au listing, 15% 5 mois plus tard, 30% 4 mois plus tard, et 25% 4 mois plus tard​                |
+| Team Founders              |     Lock up de 2 ans puis 10% tous les 6 mois​                  |
+| Foundation          |     Utilisation afin de soutenir les projets exploitant la blockchain Ternoa​ |
+| Masternodes                 |     Flottant en fonction de la quantité de Masternodes, et le staking par les validators et les nominators                  |
+/*:TGE: 26 février 2021
+/*:Listing: septembre 2021
 
 ![repartitions](images/released-tokens.jpg "texte pour le titre, facultatif")
 
