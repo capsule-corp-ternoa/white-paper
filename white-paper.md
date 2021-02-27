@@ -258,7 +258,7 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 
 ### Règles de libération des Tokens
 
-|                       |                                                                                               |
+| Category                      |         Vesting                                                                                      |
 | :-------------------- | :-------------------------------------------------------------------------------------------: |
 | Airdrop               |     40% 3 mois après le listing, puis 30% 4 mois plus tard, puis encore 30% 4 mois plus tard​                 |
 | Advisors and Pertnerships        |     15% au listing, 25% 3 mois plus tard, puis 30% 4 mois plus tard, puis 30% 4 mois plus tard​  |
@@ -269,6 +269,7 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 | Team Founders              |     Lock up de 2 ans puis 10% tous les 6 mois​                  |
 | Foundation          |     Utilisation afin de soutenir les projets exploitant la blockchain Ternoa​ |
 | Masternodes                 |     Flottant en fonction de la quantité de Masternodes, et le staking par les validators et les nominators                  |
+
 /*:TGE: 26 février 2021
 /*:Listing: septembre 2021
 
