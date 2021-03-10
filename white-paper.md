@@ -265,7 +265,7 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 | Pré-Ventes 1          |     1% au TGE, 40% 3 mois après le listing, puis 30% 6 mois plus tard, puis 29% 6 mois plus tard​  |
 | Pré-Ventes 2          |     15% au listing, 25% 4 mois plus tard, 30% 4 mois plus tard, puis 30% 7 mois plus tard​  |
 | Contributors​      |     5% au listing, 30% 3 mois plus tard, puis 30% 4 mois plus tard, et 35% 4 mois plus tard​             |
-| ICO & Pre-ICO Tokens          |     10% au listing, 15% 5 mois plus tard, 25% 4 mois plus tard, 25% 4 mois plus tard, puis les derniers 25% 4 mois plus tard​                |
+| ICO          |     10% au listing, 15% 5 mois plus tard, 25% 4 mois plus tard, 25% 4 mois plus tard, puis les derniers 25% 4 mois plus tard​                |
 | Team Founders              |     Lock up de 2 ans puis 10% tous les 6 mois​                  |
 | Foundation          |     Utilisation afin de soutenir les projets exploitant la blockchain Ternoa​ |
 | Masternodes                 |     Flottant en fonction de la quantité de Masternodes, et le staking par les validators et les nominators                  |
