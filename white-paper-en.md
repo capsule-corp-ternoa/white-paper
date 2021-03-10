@@ -258,7 +258,7 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 | Presale 1          |     1% at TGE, 40% 3 months after listing, then 30% after 6 months and 29% after 6 other months​  |
 | Presale 2          |     15% at listing, 25% 4 months later, 30% 4 months later, then the remaining 30% 7 months later​  |
 | Contributors​      |     5% at listing, 30% 3 months later, then 30% after 4 months and 35% after 4 other months​             |
-| ICO Public Sale           |     10% at listing, 15% 5 months later, then 30% after 4 months and 25% after 4 other 4 months​                |
+| ICO Public Sale           |     10% at listing, 15% 5 months later, then 25% after 4 months, 25% after 4 other months, and the last 25% after 4 months​                |
 | Team Founders              |     Full Lock up for 2 years then 10% every 6 months​                  |
 | Foundation​          |     allocation for projects that support and participate in the Ternoa Blockchain ecosystem​ |
 | Masternodes                  |     allocation depending in the quantity of Masternodes and staking by validators and nominators​                  |
