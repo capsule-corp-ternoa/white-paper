@@ -260,18 +260,18 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 
 | Category                      |         Vesting                                                                                      |
 | :-------------------- | :-------------------------------------------------------------------------------------------: |
-| Airdrop               |     bloqué pendant 3 mois après le listing, 40% le mois suivant, puis 8,5% par mois sur un total de 6 mois                 |
-| Seed          |     bloqué pendant 1 mois après le listing, puis 13% par mois pendant les 3 premiers mois, puis 5% par mois pendant 15 mois au total  |
+| Airdrop               |     bloqués pendant 3 mois après le listing, 40% le mois suivant, puis 8,5% par mois sur un total de 6 mois                 |
+| Seed          |     bloqués pendant 1 mois après le listing, puis 13% par mois pendant les 3 premiers mois, puis 5% par mois pendant 15 mois au total  |
 | Community Sale        |     15 % au listing, 6 % par mois les 4 premiers mois, puis 8 % par mois sur un total de 13 mois.  |
-| Private Sale         |     bloquée pendant 6 mois après le listing, 10% le mois suivant, puis 11% par mois sur un total de 9 mois  |
+| Private Sale         |     bloqués pendant 6 mois après le listing, 10% le mois suivant, puis 11% par mois sur un total de 9 mois  |
 | Public      |     10 % au listing, puis 11 % par mois sur une période totale de 9 mois.           |
 | Strategic           |     10% au listing, puis 11% par mois sur un total de 9 mois          |
 | Team Founders              |     bloqués pendant 24 mois depuis le TGE, puis 2 % par mois sur une période totale de 60 mois                  |
 | Advisors              |     bloqués pendant 10 mois après le listing, puis 8% par mois sur un total de 12 mois            |
-| Ecosystem & partnerships             |     bloqué pendant 6 mois après le listing, puis 2% par mois sur un total de 48 mois           |
-| Development              |     bloqué pendant 12 mois après le listing, puis 3% par mois sur un total de 36 mois                 |
-| Marketing             |     bloqué pendant 3 mois après le listing, puis 2 % par mois sur un total de 48 mois               |
-| Reserve             |     bloquée pendant 18 mois après le listing, puis 2 % par mois sur un total de 60 mois         |
+| Ecosystem & partnerships             |     bloqués pendant 6 mois après le listing, puis 2% par mois sur un total de 48 mois           |
+| Development              |     bloqués pendant 12 mois après le listing, puis 3% par mois sur un total de 36 mois                 |
+| Marketing             |     bloqués pendant 3 mois après le listing, puis 2 % par mois sur un total de 48 mois               |
+| Reserve             |     bloqués pendant 18 mois après le listing, puis 2 % par mois sur un total de 60 mois         |
 
 \*:TGE: 26 février 2021
 \*:Listing: septembre 2021
