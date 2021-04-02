@@ -247,7 +247,7 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 
 ### Distribution of Tokens
 
-![repartitions](images/repartitions.jpg "texte pour le titre, facultatif")
+![repartitions](images/token_repartition_ternoa.png "texte pour le titre, facultatif")
 
 ### Token release rules
 
@@ -270,7 +270,7 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 \*: TGE: February 26th of 2021
 \*: Listing: Q2 of 2021
 
-![repartitions](images/vesting-period.jpg "texte pour le titre, facultatif")
+![repartitions](images/token_cirulation_ternoa.png "texte pour le titre, facultatif")
 
 ### Core Team
 
