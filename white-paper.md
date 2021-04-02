@@ -254,26 +254,29 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 
 ### Répartition des Tokens
 
-![repartitions](images/repartitions.jpg "texte pour le titre, facultatif")
+![repartitions](images/token_repartition_ternoa.png "texte pour le titre, facultatif")
 
 ### Règles de libération des Tokens
 
 | Category                      |         Vesting                                                                                      |
 | :-------------------- | :-------------------------------------------------------------------------------------------: |
-| Airdrop               |     40% 3 mois après le listing, puis 30% 4 mois plus tard, puis encore 30% 4 mois plus tard​                 |
-| Advisors and Pertnerships        |     15% au listing, 25% 3 mois plus tard, puis 30% 4 mois plus tard, puis 30% 4 mois plus tard​  |
-| Pré-Ventes 1          |     1% au TGE, 40% 3 mois après le listing, puis 30% 6 mois plus tard, puis 29% 6 mois plus tard​  |
-| Pré-Ventes 2          |     15% au listing, 25% 4 mois plus tard, 30% 4 mois plus tard, puis 30% 7 mois plus tard​  |
-| Contributors​      |     5% au listing, 30% 3 mois plus tard, puis 30% 4 mois plus tard, et 35% 4 mois plus tard​             |
-| ICO          |     10% au listing, 15% 5 mois plus tard, 25% 4 mois plus tard, 25% 4 mois plus tard, puis les derniers 25% 4 mois plus tard​                |
-| Team Founders              |     Lock up de 2 ans puis 10% tous les 6 mois​                  |
-| Foundation          |     Utilisation afin de soutenir les projets exploitant la blockchain Ternoa​ |
-| Masternodes                 |     Flottant en fonction de la quantité de Masternodes, et le staking par les validators et les nominators                  |
+| Airdrop               |     bloqué pendant 3 mois après le listing, 40% le mois suivant, puis 8,5% par mois sur un total de 6 mois                 |
+| Seed          |     bloqué pendant 1 mois après le listing, puis 13% par mois pendant les 3 premiers mois, puis 5% par mois pendant 15 mois au total  |
+| Community Sale        |     15 % au listing, 6 % par mois les 4 premiers mois, puis 8 % par mois sur un total de 13 mois.  |
+| Private Sale         |     bloquée pendant 6 mois après le listing, 10% le mois suivant, puis 11% par mois sur un total de 9 mois  |
+| Public      |     10 % au listing, puis 11 % par mois sur une période totale de 9 mois.           |
+| Strategic           |     10% au listing, puis 11% par mois sur un total de 9 mois          |
+| Team Founders              |     bloqués pendant 24 mois depuis le TGE, puis 2 % par mois sur une période totale de 60 mois                  |
+| Advisors              |     bloqués pendant 10 mois après le listing, puis 8% par mois sur un total de 12 mois            |
+| Ecosystem & partnerships             |     bloqué pendant 6 mois après le listing, puis 2% par mois sur un total de 48 mois           |
+| Development              |     bloqué pendant 12 mois après le listing, puis 3% par mois sur un total de 36 mois                 |
+| Marketing             |     bloqué pendant 3 mois après le listing, puis 2 % par mois sur un total de 48 mois               |
+| Reserve             |     bloquée pendant 18 mois après le listing, puis 2 % par mois sur un total de 60 mois         |
 
 \*:TGE: 26 février 2021
 \*:Listing: septembre 2021
 
-![repartitions](images/vesting-period.jpg "texte pour le titre, facultatif")
+![repartitions](images/token_cirulation_ternoa.png "texte pour le titre, facultatif")
 
 ### Team “core”
 
