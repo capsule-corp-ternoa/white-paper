@@ -261,10 +261,10 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 | Strategic           |     10% at listing, then equal parts of 11% over a total of 9 months                |
 | Team Founders              |     Locked for 24 months, 2% on first release, then equal parts of 2% over a total of 60 months                  |
 | Advisors              |     Locked for 10 months, 8% on first release, then equal parts of 8% over a total of 12 months                  |
-| Ecosystem & partnerships             |     Locked for 6 months, 2% on !rst release, then equal parts of 2% over a total of 48 months                 |
-| Development              |     Locked for 12 months, 3% on !rst release, then equal parts of 3% over a total of 36 months                  |
-| Marketing             |     Locked for 3 months, 2% on !rst release, then equal parts of 2% over a total of 48 months                  |
-| Reserve             |     Locked for 18 months, 2% on !rst release, then equal parts of 2% over total of 60 months                  |
+| Ecosystem & partnerships             |     Locked for 6 months, 2% on first release, then equal parts of 2% over a total of 48 months                 |
+| Development              |     Locked for 12 months, 3% on first release, then equal parts of 3% over a total of 36 months                  |
+| Marketing             |     Locked for 3 months, 2% on first release, then equal parts of 2% over a total of 48 months                  |
+| Reserve             |     Locked for 18 months, 2% on first release, then equal parts of 2% over total of 60 months                  |
 
 
 \*: TGE: February 26th of 2021
