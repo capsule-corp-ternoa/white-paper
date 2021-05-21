@@ -138,7 +138,7 @@ On the first version, the RUST language (via INK!) will be used to manage smart 
 
 ## 7. Time Capsule Workflow
 
-The Ternoa Blockchain uses NFTs as “time capsules”. Prior to sending a time capsule, the user must provision their Coin Capsule wallet and must purchase a Ternoa compatible NFT.
+The Ternoa Blockchain uses NFTs as “time capsules”. Prior to sending a time capsule, the user must provision their CAPS wallet and must purchase a Ternoa compatible NFT.
 
 *Fig. 2. Functional diagram of NFTs transmission on the Ternoa Blockchain.*
 
@@ -232,7 +232,7 @@ There are two different queues to which a proposal can be added, before it becom
 
 ## Economic model
 
-The Coin Capsule is the token of the Ternoa Blockchain. Transactions made on the Ternoa blockchain are settled in Capsule Coins, namely:
+The CAPS is the token of the Ternoa Blockchain. Transactions made on the Ternoa blockchain are settled in CAPS, namely:
 * Creation of NFT
 * Encryption
 * data storage over time
