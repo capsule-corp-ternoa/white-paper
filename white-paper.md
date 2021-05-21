@@ -274,7 +274,7 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 | Reserve             |     bloqués pendant 18 mois après le listing, puis 2 % par mois sur un total de 60 mois         |
 
 \*:TGE: 26 février 2021
-\*:Listing: septembre 2021
+\*:Listing: june 2021
 
 ![repartitions](images/token_cirulation_ternoa.png "texte pour le titre, facultatif")
 
