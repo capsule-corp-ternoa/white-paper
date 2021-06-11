@@ -253,7 +253,7 @@ The volume of demand for NFTs on the one hand, and for their storage over time o
 
 |                Categories       |          Vesting                                                                                     |
 | :-------------------- | :-------------------------------------------------------------------------------------------: |
-| Airdrop               |     Locked for 3 months, 40% on first release, then equal parts of 8,5% over a total of 6 months​                 |
+| Airdrop               |     Locked for 4 months after listing, 40% on first release, then 30% two months later and 30 % again four months later.                  |
 | Seed          |     Locked for 1 month after listing, 13% per month on the first 3 months, then equal parts of 5% over a total of 15 months​  |
 | Community Sale        |     15% at listing, 6% per month on the first 4 months, then equal parts of 8% over a total of 13 months​  |
 | Private Sale         |     Locked for 6 months, 10% on first release, then equal parts of 11% over a total of 9 months​  |

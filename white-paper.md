@@ -260,7 +260,7 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 
 | Category                      |         Vesting                                                                                      |
 | :-------------------- | :-------------------------------------------------------------------------------------------: |
-| Airdrop               |     bloqués pendant 3 mois après le listing, 40% le mois suivant, puis 8,5% par mois sur un total de 6 mois                 |
+| Airdrop               |     Bloqués pendant 4 mois après le listing, 40% le mois suivant, puis 30% deux mois plus tard et 30% à nouveau quatre mois ensuite.                  |
 | Seed          |     bloqués pendant 1 mois après le listing, puis 13% par mois pendant les 3 premiers mois, puis 5% par mois pendant 15 mois au total  |
 | Community Sale        |     15 % au listing, 6 % par mois les 4 premiers mois, puis 8 % par mois sur un total de 13 mois.  |
 | Private Sale         |     bloqués pendant 6 mois après le listing, 10% le mois suivant, puis 11% par mois sur un total de 9 mois  |
