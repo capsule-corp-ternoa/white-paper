@@ -239,11 +239,12 @@ The CAPS is the token of the Ternoa Blockchain. Transactions made on the Ternoa 
 
 The volume of demand for NFTs on the one hand, and for their storage over time on the other hand, are the two factors of appreciation for Capsule Coin in secondary markets.
 
-### The Token Capsule Coin
+### Capsule Coin Token
 
 * Symbol: "CAPS"
 * Total Supply: 2 500 000 000 CAPS (2.5 billion)
 * ICO price: 0.008 € / CAPS
+* At of the ICO date Capsule Coins are erc20 tokens. A bridge shall be implemented, on or before the Main Net launch. This bridge shall allow Capsule Coin erc20 holders to transfer them on the Ternoa blockchain, on a 1 for 1 basis
 
 ### Distribution of Tokens
 

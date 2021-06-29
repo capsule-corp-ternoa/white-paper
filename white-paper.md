@@ -251,6 +251,7 @@ Le volume de demande pour des NFT d’une part, et pour leur stockage dans le te
 * Symbole: "CAPS"
 * Total Supply: 2 500 000 000 CAPS (2,5 milliards)
 * Prix à l’ICO: 0,008 € / CAPS
+* Lors de l’ICO, le Capsule Coin est un jeton erc20. Un bridge sera mis en place, au plus tard à la sortie du Main Net, et permettra aux détenteurs de Capsule Coin erc20 de les porter sur la blockchain Ternoa, à un ratio fixe garanti de 1 pour 1.
 
 ### Répartition des Tokens
 
