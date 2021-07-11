@@ -287,7 +287,7 @@ Co-fondateur et CTO de plusieurs start-ups, Mickael a conçu et développé diff
 
 #### Clément Téqui - CFO
 
-Issu du secteur du secteur du conseil financier et spécialiste en Token Economics, Clément a créé la pratique blockchain du cabinet Accuracy. Il a notamment conseillé l’ICO de Peculium (9m€) et siège au Board de Linkcy. Diplômé de l’ESCP, il est l’auteur de l’ouvrage ”Blockchain, vers de nouvelles chaines de valeur” (Edition Eyrolles) et donne des cours sur les enjeux stratégiques de la blockchain à l’Université Paris Dauphine et à l’école Polytechnique.
+Issu du secteur du conseil financier et spécialiste en Token Economics, Clément a créé la pratique blockchain du cabinet Accuracy. Il a notamment conseillé l’ICO de Peculium (9m€) et siège au Board de Linkcy. Diplômé de l’ESCP, il est l’auteur de l’ouvrage ”Blockchain, vers de nouvelles chaines de valeur” (Edition Eyrolles) et donne des cours sur les enjeux stratégiques de la blockchain à l’Université Paris Dauphine et à l’école Polytechnique.
   
 #### Eliott Teissonniere - Blockchain Architect
 
