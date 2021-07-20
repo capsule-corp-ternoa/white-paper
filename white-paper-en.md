@@ -20,7 +20,7 @@ The development of the Blockchain is led by 3 main principles:
 
 * A Blockchain infrastructure loyal to the essence of the technology: open source, decentralized and democratic;
 * A service that is accessible and usable by the general public by focusing on user experiences optimized around everyday man-machine interfaces: web and mobile applications.
-* A business model of the native token of the Ternoa Blockchain offering investors a clear, fair and directly correlated value creation trajectory to the success of the project.
+* A business model of the native token of the Ternoa Blockchain offering token holders a clear, fair and directly correlated value creation trajectory to the success of the project.
 
 These principles are implemented thanks to: The Blockchain Ternoa which allows the secure storage and transmission of data. A Software Development Kit (SDK) to facilitate the development of mobile or Web applications making the Blockchain Ternoa accessible to all use cases.
 

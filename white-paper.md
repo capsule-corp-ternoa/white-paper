@@ -21,7 +21,7 @@ Le développement de la Blockchain est guidé par 3 grands principes :
 Une infrastructure Blockchain fidèle à l’essence de la technologie à savoir : open source, décentralisée et démocratique ;
 
 * Un service accessible et utilisable par le grand public en faisant la part belle aux expériences utilisateurs optimisées autour d’interfaces homme-machine du quotidien : les applications web et mobiles.
-* Un modèle économique du Token natif de la Blockchain Ternoa proposant aux investisseurs une trajectoire de création de valeur claire, équitable et directement corrélée au succès du projet ; 
+* Un modèle économique du Token natif de la Blockchain Ternoa proposant aux détenteurs de jetons une trajectoire de création de valeur claire, équitable et directement corrélée au succès du projet ; 
 
 Ces principes sont mis en oeuvre grâce à :
 La Blockchain Ternoa qui permet le stockage et la transmission sécurisée des données.
