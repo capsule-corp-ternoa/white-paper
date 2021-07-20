@@ -154,7 +154,7 @@ De point de vue de la Blockchain Ternoa, une création de capsule consiste à :
 * Créer le lien vers l'arbre à fichiers dans le NFT  ;
 * Générer les clés asymétriques et les clés secrètes de Shamir pour garantir le niveau de sécurité maximal sur les données et l’accès à la capsule ;
 * Générer un secret symétrique et la chiffrer  avec la clé asymétrique ;
-* Envoyer les shards sur le réseau de masternode pour faire valider les transactions.
+* Envoyer les shares sur le réseau de masternode pour faire valider les transactions.
 
 ## Structure du NFT et Fichiers
 
@@ -199,11 +199,11 @@ Tous les comptes peuvent se voir spécifier un nombre illimité de sous-comptes.
 
 Comme nous l'avons évoqué précédemment, seuls les destinataires de la capsule sont capables de la déchiffrer.
 
-Le shard primaire est transféré “Off-Chain” via différents vecteurs : depuis l'application mobile, depuis un support physique (ledger,etc) ou via un service spécialisé HSM (Amazon, Google).
+Le share primaire est transféré “Off-Chain” via différents vecteurs : depuis l'application mobile, depuis un support physique (ledger,etc) ou via un service spécialisé HSM (Amazon, Google).
 
-### Backup du shard de la capsule
+### Backup du share de la capsule
 
-Chaque capsule à un shard unique qui permet au possesseur du NFT de la déchiffrer. Ce shard peut-être chiffré et sauvegardé sur différents services de cloud : mobile Cloud, dropbox, etc ... Et il peut être exporté dans format TXT. Dans le cas d'un changement de téléphone ou de la perte de celui-ci, l'utilisateur une fois connecté à son wallet sera capable de réimporter et de déchiffrer le shard.
+Chaque capsule à un share unique qui permet au possesseur du NFT de la déchiffrer. Ce share peut-être chiffré et sauvegardé sur différents services de cloud : mobile Cloud, dropbox, etc ... Et il peut être exporté dans format TXT. Dans le cas d'un changement de téléphone ou de la perte de celui-ci, l'utilisateur une fois connecté à son wallet sera capable de réimporter et de déchiffrer le share.
 
 *Fig. 5 - Stockage off-chain P2P des clés.*
 
@@ -215,11 +215,11 @@ Le module social permettra de voir sa clé stockée de façon off-chain sur le r
 
 ![Blockchain TERNOA 01](images/off-chain-02.jpg "texte pour le titre, facultatif")
 
-Les autres shards seront stockées sur les Masternodes. Si le propriétaire du NFT demande à avoir accès au shards, le réseau lui donne si les autres conditions sont valables. Ces conditions sont gérées par les protocoles énoncés ci-dessous.
+Les autres shares seront stockées sur les Masternodes. Si le propriétaire du NFT demande à avoir accès au shares, le réseau lui donne si les autres conditions sont valables. Ces conditions sont gérées par les protocoles énoncés ci-dessous.
 
 ## Comportement des masternodes
 
-Les masternodes en NPoS détiennent des parties de Shamir sans jamais détenir l'ensemble des clés. Et ne sont pas en mesure de savoir à qui elles appartiennent. Chaque masternode est indépendant et n'a pas connaissance de la data des autres Masternodes. Les Masternodes ont la consigne de retourner les shards sur demande du propriétaire du NFT concerné, si et seulement si les conditions de la transmission sont remplies.
+Les masternodes en NPoS détiennent des parties de Shamir sans jamais détenir l'ensemble des clés. Et ne sont pas en mesure de savoir à qui elles appartiennent. Chaque masternode est indépendant et n'a pas connaissance de la data des autres Masternodes. Les Masternodes ont la consigne de retourner les shares sur demande du propriétaire du NFT concerné, si et seulement si les conditions de la transmission sont remplies.
 
 Ajout d'un message L'ajout d'un message consiste à : Chiffrer un fichier (json/base64/media) avec la clé symétrique. Ajout de ce document sur le serveur de fichier et modification de l'arbre.
 
