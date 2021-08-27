@@ -34,7 +34,7 @@ The Ternoa Application allows to create "Time Capsules" to encrypt, store, and t
 
 *Fig. 1: Functional diagram of how the Ternoa Blockchain is used by the Ternoa Application.*
 
-![Blockchain TERNOA 01](images/blockchain-useless.jpg "texte pour le titre, facultatif")
+![Blockchain TERNOA 01](images/blockchain-architecture.jpg "texte pour le titre, facultatif")
 
 The flows in green correspond to the steps in a user's journey through the Ternoa Application to create a time capsule and transmit digital data to specific beneficiaries. Eventually, four protocols will trigger the transmission of information:
 
