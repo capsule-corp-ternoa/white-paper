@@ -20,7 +20,7 @@ The development of the Blockchain is led by 3 main principles:
 
 * A Blockchain infrastructure loyal to the essence of the technology: open source, decentralized and democratic;
 * A service that is accessible and usable by the general public by focusing on user experiences optimized around everyday man-machine interfaces: web and mobile applications.
-* A business model of the native token of the Ternoa Blockchain offering investors a clear, fair and directly correlated value creation trajectory to the success of the project.
+* A business model of the native token of the Ternoa Blockchain offering token holders a clear, fair and directly correlated value creation trajectory to the success of the project.
 
 These principles are implemented thanks to: The Blockchain Ternoa which allows the secure storage and transmission of data. A Software Development Kit (SDK) to facilitate the development of mobile or Web applications making the Blockchain Ternoa accessible to all use cases.
 
@@ -151,7 +151,7 @@ From the point of view of the Ternoa Blockchain, a capsule creation consists of:
 * Create the link to the file tree in the NFT;
 * Generate asymmetric keys and Shamir's secret keys to guarantee the maximum level of security of the data and access to the capsule;
 * Generate a symmetric secret and encrypt it with the asymmetric key;
-* Send shards to the masternode network to validate the transactions.
+* Send shares to the masternode network to validate the transactions.
 
 ## NFT Structure and Files
 
@@ -195,11 +195,11 @@ All accounts can have an unlimited number of sub-accounts specified. By definiti
 
 As we mentioned previously, only the recipients of the capsule are able to decipher it.
 
-The primary shard is transferred “Off-Chain” via various vectors: from the mobile application, from a physical medium (ledger, etc.) or via a specialized HSM service (Amazon, Google).
+The primary share is transferred “Off-Chain” via various vectors: from the mobile application, from a physical medium (ledger, etc.) or via a specialized HSM service (Amazon, Google).
 
-### Backup of the capsule shard
+### Backup of the capsule share
 
-Each capsule has a unique shard which allows the NFT owner to decipher it. This shard can be encrypted and saved on different cloud services: mobile Cloud, dropbox, etc... And it can be exported in TXT format. In case the phone is changed or lost, the user once connected to his wallet will be able to reimport and decrypt the shard.
+Each capsule has a unique share which allows the NFT owner to decipher it. This share can be encrypted and saved on different cloud services: mobile Cloud, dropbox, etc... And it can be exported in TXT format. In case the phone is changed or lost, the user once connected to his wallet will be able to reimport and decrypt the share.
 
 *Fig. 5 - P2P off-chain storage of keys.*
 
@@ -211,11 +211,11 @@ The social module will allow you to see your key stored off-chain on the P2P mob
 
 ![Blockchain TERNOA 01](images/off-chain-02.jpg "texte pour le titre, facultatif")
 
-The other shards will be stored on the Masternodes. If the owner of the NFT requests access to the shards, the network tells him if the other conditions are valid. These conditions are managed by the protocols set out below.
+The other shares will be stored on the Masternodes. If the owner of the NFT requests access to the shares, the network tells him if the other conditions are valid. These conditions are managed by the protocols set out below.
 
 ## Behavior of masternodes
 
-Masternodes in NPoS hold parts of Shamir without ever holding all of the keys. And are not able to know who they belong to. Each masternode is independent and has no knowledge of the data of the other Masternodes. Masternodes are instructed to return the shards upon request of the NFT owner concerned, if and only if the conditions for the transmission are met.
+Masternodes in NPoS hold parts of Shamir without ever holding all of the keys. And are not able to know who they belong to. Each masternode is independent and has no knowledge of the data of the other Masternodes. Masternodes are instructed to return the shares upon request of the NFT owner concerned, if and only if the conditions for the transmission are met.
 
 Adding a message Adding a message consists of: Encrypting a file (json/base64/media) with the symmetric key. Addition of this document on the file server and modification of the tree.
 
