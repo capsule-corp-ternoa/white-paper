@@ -31,7 +31,7 @@ Ces deux couches technologiques, développées par Capsule Corp., sont compatibl
 
 ## Cas d’usage : Capsules Temporelles Ternoa
 
-Capsule Corp. développera à partir du SDK sa propre application, appelée « Application Ternoa » dans la description de ce cas d’usage.
+Capsule Corp. développera à travers une filiale dédiée et à partir du SDK sa propre application, appelée « Application Ternoa » dans la description de ce cas d’usage.
 
 L’Application Ternoa permet de créer des “Capsules Temporelles” pour chiffrer, stocker, et transférer des données de manière sécurisée, et dans le temps long. Ces Capsules Temporelles sont des jetons non-fongibles émis sur la blockchain Ternoa.
 
@@ -139,7 +139,7 @@ Unique par pays, basé sur les API des registres publics de décès , le Death P
 
 Sur la première version, le langage RUST (via INK!) sera utilisé pour gérer les smart contracts. Les smarts contracts permettent d’exécuter des fonctions sur la blockchain et offrent la possibilité à la communauté de développer des applications sur la blockchain Ternoa.
 
-## 7. Workflow des Capsules Temporelles
+## Workflow des Capsules Temporelles
 
 La Blockchain Ternoa utilise des NFT comme “capsules temporelles”. Préalablement à l’envoi d’une capsule temporelle, l’utilisateur doit se provisionner son wallet de Capsule Coin et doit acheter un NFT compatible Ternoa.
 

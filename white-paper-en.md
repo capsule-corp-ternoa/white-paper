@@ -28,7 +28,7 @@ These two technological layers, developed by Capsule Corp. are compatible and in
 
 ## Use Case: Ternoa Temporal Capsules
 
-Capsule Corp. will develop its own application called "Application Ternoa" from the SDK, in the description of this use case.
+Capsule Corp. will develop trough dedicated subsidiary its own application called "Application Ternoa" from the SDK, in the description of this use case.
 
 The Ternoa Application allows to create "Time Capsules" to encrypt, store, and transfer data in a secure way, and in a long time. These Time Capsules are non-fungible tokens issued on the Ternoa blockchain.
 
@@ -136,7 +136,7 @@ Unique per country, based on the APIs of public death registers, the Death Proto
 
 On the first version, the RUST language (via INK!) will be used to manage smart contracts. Smart contracts allow functions to be performed on the blockchain and offer the possibility for the community to develop applications on the Ternoa blockchain.
 
-## 7. Time Capsule Workflow
+## Time Capsule Workflow
 
 The Ternoa Blockchain uses NFTs as “time capsules”. Prior to sending a time capsule, the user must provision their CAPS wallet and must purchase a Ternoa compatible NFT.
 
